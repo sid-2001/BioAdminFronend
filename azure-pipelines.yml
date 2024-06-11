@@ -1,0 +1,23 @@
+trigger:
+  - development
+
+pool:
+  vmImage: 'ubuntu-latest'
+
+stages:
+  - stage: Build
+    jobs:
+      - job:
+        displayName: build environment setup 
+        steps:
+          - task: NodeTool@0
+            displayName: install node 20.x
+            inputs:
+              versionSpec: '20.x'
+          - script: npm install
+            displayName: install packages 
+          - script: npm run build
+            displayName: 'build package '
+            workingDirectory: '$(Build.SourcesDirectory)'
+          - publish: dist
+            artifact: dist

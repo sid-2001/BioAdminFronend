@@ -1,0 +1,127 @@
+{
+  "first_row": {
+    "name": "Base : All Respondents",
+    "columns": [
+      {
+        "group_name": "",
+        "name": "",
+        "label": "",
+        "value": "Base : All Respondents",
+        "value_percent": "",
+        "value_subscript": ""
+      },
+      {
+        "group_name": "Source",
+        "name": "Panel Sourced",
+        "label": "A",
+        "value": "725",
+        "value_percent": "DUMMY",
+        "value_subscript": "FBG"
+      },
+      {
+        "group_name": "Source",
+        "name": "Member Sourced",
+        "label": "B",
+        "value": "725",
+        "value_percent": "",
+        "value_subscript": ""
+      },
+      {
+        "group_name": "Country",
+        "name": "Canada",
+        "label": "C",
+        "value": "725",
+        "value_percent": "",
+        "value_subscript": ""
+      },
+      {
+        "group_name": "Country",
+        "name": "Germnay",
+        "label": "D",
+        "value": "725",
+        "value_percent": "",
+        "value_subscript": ""
+      },
+      {
+        "group_name": "Country",
+        "name": "USA",
+        "label": "E",
+        "value": "725",
+        "value_percent": "",
+        "value_subscript": ""
+      },
+      {
+        "group_name": "Country",
+        "name": "UK",
+        "label": "F",
+        "value": "725",
+        "value_percent": "",
+        "value_subscript": ""
+      },
+      {
+        "group_name": "Panel Sourced-Country",
+        "name": "Canada",
+        "label": "G",
+        "value": "725",
+        "value_percent": "DUMMY",
+        "value_subscript": "FBG"
+      },
+      {
+        "group_name": "Panel Sourced-Country",
+        "name": "Germnay",
+        "label": "H",
+        "value": "725",
+        "value_percent": "",
+        "value_subscript": ""
+      },
+      {
+        "group_name": "Panel Sourced-Country",
+        "name": "USA",
+        "label": "I",
+        "value": "725",
+        "value_percent": "",
+        "value_subscript": ""
+      },
+      {
+        "group_name": "Panel Sourced-Country",
+        "name": "UK",
+        "label": "J",
+        "value": "725",
+        "value_percent": "",
+        "value_subscript": ""
+      },
+      {
+        "group_name": "Member Sourced-Country",
+        "name": "Canada",
+        "label": "K",
+        "value": "725",
+        "value_percent": "",
+        "value_subscript": ""
+      },
+      {
+        "group_name": "Member Sourced-Country",
+        "name": "Germnay",
+        "label": "L",
+        "value": "725",
+        "value_percent": "",
+        "value_subscript": ""
+      },
+      {
+        "group_name": "Member Sourced-Country",
+        "name": "USA",
+        "label": "M",
+        "value": "725",
+        "value_percent": "",
+        "value_subscript": ""
+      },
+      {
+        "group_name": "Member Sourced-Country",
+        "name": "UK",
+        "label": "N",
+        "value": "725",
+        "value_percent": "",
+        "value_subscript": ""
+      }
+    ]
+  }
+}

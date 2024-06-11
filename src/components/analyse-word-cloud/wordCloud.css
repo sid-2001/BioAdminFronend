@@ -1,0 +1,15 @@
+.word-cloud-paper-div {
+  margin: 20px 0px 0px 0px;
+  min-height: 260px;
+  box-shadow: border-box;
+  overflow-y: auto;
+  padding: 10px 10px 8px 10px;
+  overflow: auto;
+  width: 97%;
+}
+
+.word-cloud-text-div {
+  color: #35454c;
+  font-weight: 600;
+  font-size: 16px;
+}

@@ -1,0 +1,30 @@
+.row {
+  background-color: white;
+  color: black;
+  font-family: Calibri;
+}
+
+.blue {
+  background-color: #092060;
+  color: #f7f8fa;
+  text-align: center;
+  border: 1px solid black;
+  font-family: Calibri;
+  font-weight: 700;
+  font-size: 18px;
+  /* width: 75px; */
+}
+.firstHeader {
+  min-width: 300px;
+}
+
+.secondHeader {
+  min-width: 110px;
+}
+
+.transparent {
+  background-color: #fff;
+  border: none;
+  outline: none;
+  color: #fff;
+}

@@ -1,0 +1,5 @@
+{
+  "BASE_ADMIN_API_URL": "http://localhost:9001",
+  "ENV": "LOCAL",
+  "NOTIFICATION_IDENTIFIER": "[##NOVU__IDENTIFIER##]"
+}

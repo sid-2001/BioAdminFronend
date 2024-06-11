@@ -1,0 +1,5 @@
+{
+  "BASE_ADMIN_API_URL": "[##API_BASE_URL##]",
+  "ENV": "PROD",
+  "NOTIFICATION_IDENTIFIER": "edo56bBTzORL"
+}

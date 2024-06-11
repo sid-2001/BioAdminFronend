@@ -1,0 +1,2655 @@
+{
+  "name": "Data Tabulation",
+  "tables": [
+      {
+          "table_name": "Table 1",
+          "question_id": "hSOURCE_QUOTA",
+          "question_text": "Hidden: for source quota",
+          "base_name": "Base : All Respondents",
+          "base_value": 725,
+          "analysis_text": "Proportions/Means: Columns Tested (5% risk level) - A/B - C/D/E/F/G - H/I/J/K/L - M/N/O/P/Q - H/M - I/N - J/O - K/P - L/Q",
+          "notes_text": "",
+          "rows": [
+              {
+                  "name": "Base : All Respondents",
+                  "columns": [
+                      {
+                          "name": "Member Sourced",
+                          "value": 1,
+                          "group_name": "hSOURCE_QUOTA",
+                          "value_percent": "0.14%",
+                          "value_subscript": "",
+                          "label": "A"
+                      },
+                      {
+                          "name": "Panel Sourced",
+                          "value": 725,
+                          "group_name": "hSOURCE_QUOTA",
+                          "value_percent": "99.86%",
+                          "value_subscript": "B",
+                          "label": "B"
+                      },
+                      {
+                          "name": "Total",
+                          "value": 726,
+                          "group_name": "hSOURCE_QUOTA",
+                          "value_percent": "100.0%",
+                          "label": "",
+                          "value_subscript": ""
+                      },
+                      {
+                          "name": "Canada",
+                          "value": 162,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "93.64%",
+                          "value_subscript": "C",
+                          "label": "C"
+                      },
+                      {
+                          "name": "Germany",
+                          "value": 145,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "83.82%",
+                          "value_subscript": "D",
+                          "label": "D"
+                      },
+                      {
+                          "name": "Japan",
+                          "value": 173,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "100.0%",
+                          "value_subscript": "E",
+                          "label": "E"
+                      },
+                      {
+                          "name": "Other",
+                          "value": 1,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "0.58%",
+                          "value_subscript": "",
+                          "label": "F"
+                      },
+                      {
+                          "name": "United Kingdom",
+                          "value": 118,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "68.21%",
+                          "value_subscript": "G",
+                          "label": "G"
+                      },
+                      {
+                          "name": "United States",
+                          "value": 127,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "73.41%",
+                          "value_subscript": "H",
+                          "label": "H"
+                      },
+                      {
+                          "name": "Canada",
+                          "value": 162,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "93.64%",
+                          "value_subscript": "I",
+                          "label": "I"
+                      },
+                      {
+                          "name": "Germany",
+                          "value": 145,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "83.82%",
+                          "value_subscript": "J",
+                          "label": "J"
+                      },
+                      {
+                          "name": "Japan",
+                          "value": 173,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "100.0%",
+                          "value_subscript": "K",
+                          "label": "K"
+                      },
+                      {
+                          "name": "Other",
+                          "value": 1,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "0.58%",
+                          "value_subscript": "",
+                          "label": "L"
+                      },
+                      {
+                          "name": "United Kingdom",
+                          "value": 118,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "68.21%",
+                          "value_subscript": "M",
+                          "label": "M"
+                      },
+                      {
+                          "name": "United States",
+                          "value": 127,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "73.41%",
+                          "value_subscript": "N",
+                          "label": "N"
+                      },
+                      {
+                          "name": "Canada",
+                          "value": 1,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "100.0%",
+                          "value_subscript": "O",
+                          "label": "O"
+                      },
+                      {
+                          "name": "Germany",
+                          "value": 1,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "100.0%",
+                          "value_subscript": "P",
+                          "label": "P"
+                      },
+                      {
+                          "name": "Japan",
+                          "value": 1,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "100.0%",
+                          "value_subscript": "Q",
+                          "label": "Q"
+                      },
+                      {
+                          "name": "Other",
+                          "value": 1,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "100.0%",
+                          "value_subscript": "R",
+                          "label": "R"
+                      },
+                      {
+                          "name": "United Kingdom",
+                          "value": 1,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "100.0%",
+                          "value_subscript": "S",
+                          "label": "S"
+                      },
+                      {
+                          "name": "United States",
+                          "value": 1,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "100.0%",
+                          "value_subscript": "T",
+                          "label": "T"
+                      }
+                  ]
+              },
+              {
+                  "name": "Panel Sourced",
+                  "columns": [
+                      {
+                          "name": "Member Sourced",
+                          "value": 0,
+                          "group_name": "hSOURCE_QUOTA",
+                          "value_percent": "0.0%",
+                          "value_subscript": "",
+                          "label": "A"
+                      },
+                      {
+                          "name": "Panel Sourced",
+                          "value": 725,
+                          "group_name": "hSOURCE_QUOTA",
+                          "value_percent": "100.0%",
+                          "value_subscript": "B",
+                          "label": "B"
+                      },
+                      {
+                          "name": "Total",
+                          "value": 725,
+                          "group_name": "hSOURCE_QUOTA",
+                          "value_percent": "100.0%",
+                          "label": "",
+                          "value_subscript": ""
+                      },
+                      {
+                          "name": "Canada",
+                          "value": 162,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "111.72%",
+                          "value_subscript": "C",
+                          "label": "C"
+                      },
+                      {
+                          "name": "Germany",
+                          "value": 145,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "100.0%",
+                          "value_subscript": "D",
+                          "label": "D"
+                      },
+                      {
+                          "name": "Japan",
+                          "value": 173,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "119.31%",
+                          "value_subscript": "E",
+                          "label": "E"
+                      },
+                      {
+                          "name": "Other",
+                          "value": 0,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "0.0%",
+                          "value_subscript": "",
+                          "label": "F"
+                      },
+                      {
+                          "name": "United Kingdom",
+                          "value": 118,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "81.38%",
+                          "value_subscript": "G",
+                          "label": "G"
+                      },
+                      {
+                          "name": "United States",
+                          "value": 127,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "87.59%",
+                          "value_subscript": "H",
+                          "label": "H"
+                      },
+                      {
+                          "name": "Canada",
+                          "value": 162,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "111.72%",
+                          "value_subscript": "I",
+                          "label": "I"
+                      },
+                      {
+                          "name": "Germany",
+                          "value": 145,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "100.0%",
+                          "value_subscript": "J",
+                          "label": "J"
+                      },
+                      {
+                          "name": "Japan",
+                          "value": 173,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "119.31%",
+                          "value_subscript": "K",
+                          "label": "K"
+                      },
+                      {
+                          "name": "Other",
+                          "value": 0,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "0.0%",
+                          "value_subscript": "",
+                          "label": "L"
+                      },
+                      {
+                          "name": "United Kingdom",
+                          "value": 118,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "81.38%",
+                          "value_subscript": "M",
+                          "label": "M"
+                      },
+                      {
+                          "name": "United States",
+                          "value": 127,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "87.59%",
+                          "value_subscript": "N",
+                          "label": "N"
+                      },
+                      {
+                          "name": "Canada",
+                          "value": 0,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "0.0%",
+                          "value_subscript": "",
+                          "label": "O"
+                      },
+                      {
+                          "name": "Germany",
+                          "value": 0,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "0.0%",
+                          "value_subscript": "",
+                          "label": "P"
+                      },
+                      {
+                          "name": "Japan",
+                          "value": 0,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "0.0%",
+                          "value_subscript": "",
+                          "label": "Q"
+                      },
+                      {
+                          "name": "Other",
+                          "value": 0,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "0.0%",
+                          "value_subscript": "",
+                          "label": "R"
+                      },
+                      {
+                          "name": "United Kingdom",
+                          "value": 0,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "0.0%",
+                          "value_subscript": "",
+                          "label": "S"
+                      },
+                      {
+                          "name": "United States",
+                          "value": 0,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "0.0%",
+                          "value_subscript": "",
+                          "label": "T"
+                      }
+                  ]
+              },
+              {
+                  "name": "Member Sourced",
+                  "columns": [
+                      {
+                          "name": "Member Sourced",
+                          "value": 1,
+                          "group_name": "hSOURCE_QUOTA",
+                          "value_percent": "100.0%",
+                          "value_subscript": "A",
+                          "label": "A"
+                      },
+                      {
+                          "name": "Panel Sourced",
+                          "value": 0,
+                          "group_name": "hSOURCE_QUOTA",
+                          "value_percent": "0.0%",
+                          "value_subscript": "",
+                          "label": "B"
+                      },
+                      {
+                          "name": "Total",
+                          "value": 1,
+                          "group_name": "hSOURCE_QUOTA",
+                          "value_percent": "100.0%",
+                          "label": "",
+                          "value_subscript": ""
+                      },
+                      {
+                          "name": "Canada",
+                          "value": 0,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "0.0%",
+                          "value_subscript": "",
+                          "label": "C"
+                      },
+                      {
+                          "name": "Germany",
+                          "value": 0,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "0.0%",
+                          "value_subscript": "",
+                          "label": "D"
+                      },
+                      {
+                          "name": "Japan",
+                          "value": 0,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "0.0%",
+                          "value_subscript": "",
+                          "label": "E"
+                      },
+                      {
+                          "name": "Other",
+                          "value": 1,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "0.62%",
+                          "value_subscript": "",
+                          "label": "F"
+                      },
+                      {
+                          "name": "United Kingdom",
+                          "value": 0,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "0.0%",
+                          "value_subscript": "",
+                          "label": "G"
+                      },
+                      {
+                          "name": "United States",
+                          "value": 0,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "0.0%",
+                          "value_subscript": "",
+                          "label": "H"
+                      },
+                      {
+                          "name": "Canada",
+                          "value": 0,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "0.0%",
+                          "value_subscript": "",
+                          "label": "I"
+                      },
+                      {
+                          "name": "Germany",
+                          "value": 0,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "0.0%",
+                          "value_subscript": "",
+                          "label": "J"
+                      },
+                      {
+                          "name": "Japan",
+                          "value": 0,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "0.0%",
+                          "value_subscript": "",
+                          "label": "K"
+                      },
+                      {
+                          "name": "Other",
+                          "value": 1,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "0.62%",
+                          "value_subscript": "",
+                          "label": "L"
+                      },
+                      {
+                          "name": "United Kingdom",
+                          "value": 0,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "0.0%",
+                          "value_subscript": "",
+                          "label": "M"
+                      },
+                      {
+                          "name": "United States",
+                          "value": 0,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "0.0%",
+                          "value_subscript": "",
+                          "label": "N"
+                      },
+                      {
+                          "name": "Canada",
+                          "value": 1,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "100.0%",
+                          "value_subscript": "O",
+                          "label": "O"
+                      },
+                      {
+                          "name": "Germany",
+                          "value": 1,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "100.0%",
+                          "value_subscript": "P",
+                          "label": "P"
+                      },
+                      {
+                          "name": "Japan",
+                          "value": 1,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "100.0%",
+                          "value_subscript": "Q",
+                          "label": "Q"
+                      },
+                      {
+                          "name": "Other",
+                          "value": 1,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "100.0%",
+                          "value_subscript": "R",
+                          "label": "R"
+                      },
+                      {
+                          "name": "United Kingdom",
+                          "value": 1,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "100.0%",
+                          "value_subscript": "S",
+                          "label": "S"
+                      },
+                      {
+                          "name": "United States",
+                          "value": 1,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "100.0%",
+                          "value_subscript": "T",
+                          "label": "T"
+                      }
+                  ]
+              }
+          ]
+      },
+      {
+          "table_name": "Table 2",
+          "question_id": "hPanelCountry",
+          "question_text": "Hidden question for Country to punch from Panel",
+          "base_name": "Base : All Respondents",
+          "base_value": 725,
+          "analysis_text": "Proportions/Means: Columns Tested (5% risk level) - A/B - C/D/E/F/G - H/I/J/K/L - M/N/O/P/Q - H/M - I/N - J/O - K/P - L/Q",
+          "notes_text": "",
+          "rows": [
+              {
+                  "name": "Base : All Respondents",
+                  "columns": [
+                      {
+                          "name": "Member Sourced",
+                          "value": 1,
+                          "group_name": "hSOURCE_QUOTA",
+                          "value_percent": "0.14%",
+                          "value_subscript": "",
+                          "label": "A"
+                      },
+                      {
+                          "name": "Panel Sourced",
+                          "value": 725,
+                          "group_name": "hSOURCE_QUOTA",
+                          "value_percent": "99.86%",
+                          "value_subscript": "B",
+                          "label": "B"
+                      },
+                      {
+                          "name": "Total",
+                          "value": 726,
+                          "group_name": "hSOURCE_QUOTA",
+                          "value_percent": "100.0%",
+                          "label": "",
+                          "value_subscript": ""
+                      },
+                      {
+                          "name": "Canada",
+                          "value": 162,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "93.64%",
+                          "value_subscript": "C",
+                          "label": "C"
+                      },
+                      {
+                          "name": "Germany",
+                          "value": 145,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "83.82%",
+                          "value_subscript": "D",
+                          "label": "D"
+                      },
+                      {
+                          "name": "Japan",
+                          "value": 173,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "100.0%",
+                          "value_subscript": "E",
+                          "label": "E"
+                      },
+                      {
+                          "name": "Other",
+                          "value": 1,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "0.58%",
+                          "value_subscript": "",
+                          "label": "F"
+                      },
+                      {
+                          "name": "United Kingdom",
+                          "value": 118,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "68.21%",
+                          "value_subscript": "G",
+                          "label": "G"
+                      },
+                      {
+                          "name": "United States",
+                          "value": 127,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "73.41%",
+                          "value_subscript": "H",
+                          "label": "H"
+                      },
+                      {
+                          "name": "Canada",
+                          "value": 162,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "93.64%",
+                          "value_subscript": "I",
+                          "label": "I"
+                      },
+                      {
+                          "name": "Germany",
+                          "value": 145,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "83.82%",
+                          "value_subscript": "J",
+                          "label": "J"
+                      },
+                      {
+                          "name": "Japan",
+                          "value": 173,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "100.0%",
+                          "value_subscript": "K",
+                          "label": "K"
+                      },
+                      {
+                          "name": "Other",
+                          "value": 1,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "0.58%",
+                          "value_subscript": "",
+                          "label": "L"
+                      },
+                      {
+                          "name": "United Kingdom",
+                          "value": 118,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "68.21%",
+                          "value_subscript": "M",
+                          "label": "M"
+                      },
+                      {
+                          "name": "United States",
+                          "value": 127,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "73.41%",
+                          "value_subscript": "N",
+                          "label": "N"
+                      },
+                      {
+                          "name": "Canada",
+                          "value": 1,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "100.0%",
+                          "value_subscript": "O",
+                          "label": "O"
+                      },
+                      {
+                          "name": "Germany",
+                          "value": 1,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "100.0%",
+                          "value_subscript": "P",
+                          "label": "P"
+                      },
+                      {
+                          "name": "Japan",
+                          "value": 1,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "100.0%",
+                          "value_subscript": "Q",
+                          "label": "Q"
+                      },
+                      {
+                          "name": "Other",
+                          "value": 1,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "100.0%",
+                          "value_subscript": "R",
+                          "label": "R"
+                      },
+                      {
+                          "name": "United Kingdom",
+                          "value": 1,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "100.0%",
+                          "value_subscript": "S",
+                          "label": "S"
+                      },
+                      {
+                          "name": "United States",
+                          "value": 1,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "100.0%",
+                          "value_subscript": "T",
+                          "label": "T"
+                      }
+                  ]
+              },
+              {
+                  "name": "Panel Sourced",
+                  "columns": [
+                      {
+                          "name": "Member Sourced",
+                          "value": 0,
+                          "group_name": "hSOURCE_QUOTA",
+                          "value_percent": "0.0%",
+                          "value_subscript": "",
+                          "label": "A"
+                      },
+                      {
+                          "name": "Panel Sourced",
+                          "value": 725,
+                          "group_name": "hSOURCE_QUOTA",
+                          "value_percent": "100.0%",
+                          "value_subscript": "B",
+                          "label": "B"
+                      },
+                      {
+                          "name": "Total",
+                          "value": 725,
+                          "group_name": "hSOURCE_QUOTA",
+                          "value_percent": "100.0%",
+                          "label": "",
+                          "value_subscript": ""
+                      },
+                      {
+                          "name": "Canada",
+                          "value": 162,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "111.72%",
+                          "value_subscript": "C",
+                          "label": "C"
+                      },
+                      {
+                          "name": "Germany",
+                          "value": 145,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "100.0%",
+                          "value_subscript": "D",
+                          "label": "D"
+                      },
+                      {
+                          "name": "Japan",
+                          "value": 173,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "119.31%",
+                          "value_subscript": "E",
+                          "label": "E"
+                      },
+                      {
+                          "name": "Other",
+                          "value": 0,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "0.0%",
+                          "value_subscript": "",
+                          "label": "F"
+                      },
+                      {
+                          "name": "United Kingdom",
+                          "value": 118,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "81.38%",
+                          "value_subscript": "G",
+                          "label": "G"
+                      },
+                      {
+                          "name": "United States",
+                          "value": 127,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "87.59%",
+                          "value_subscript": "H",
+                          "label": "H"
+                      },
+                      {
+                          "name": "Canada",
+                          "value": 162,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "111.72%",
+                          "value_subscript": "I",
+                          "label": "I"
+                      },
+                      {
+                          "name": "Germany",
+                          "value": 145,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "100.0%",
+                          "value_subscript": "J",
+                          "label": "J"
+                      },
+                      {
+                          "name": "Japan",
+                          "value": 173,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "119.31%",
+                          "value_subscript": "K",
+                          "label": "K"
+                      },
+                      {
+                          "name": "Other",
+                          "value": 0,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "0.0%",
+                          "value_subscript": "",
+                          "label": "L"
+                      },
+                      {
+                          "name": "United Kingdom",
+                          "value": 118,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "81.38%",
+                          "value_subscript": "M",
+                          "label": "M"
+                      },
+                      {
+                          "name": "United States",
+                          "value": 127,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "87.59%",
+                          "value_subscript": "N",
+                          "label": "N"
+                      },
+                      {
+                          "name": "Canada",
+                          "value": 0,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "0.0%",
+                          "value_subscript": "",
+                          "label": "O"
+                      },
+                      {
+                          "name": "Germany",
+                          "value": 0,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "0.0%",
+                          "value_subscript": "",
+                          "label": "P"
+                      },
+                      {
+                          "name": "Japan",
+                          "value": 0,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "0.0%",
+                          "value_subscript": "",
+                          "label": "Q"
+                      },
+                      {
+                          "name": "Other",
+                          "value": 0,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "0.0%",
+                          "value_subscript": "",
+                          "label": "R"
+                      },
+                      {
+                          "name": "United Kingdom",
+                          "value": 0,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "0.0%",
+                          "value_subscript": "",
+                          "label": "S"
+                      },
+                      {
+                          "name": "United States",
+                          "value": 0,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "0.0%",
+                          "value_subscript": "",
+                          "label": "T"
+                      }
+                  ]
+              },
+              {
+                  "name": "Member Sourced",
+                  "columns": [
+                      {
+                          "name": "Member Sourced",
+                          "value": 1,
+                          "group_name": "hSOURCE_QUOTA",
+                          "value_percent": "100.0%",
+                          "value_subscript": "A",
+                          "label": "A"
+                      },
+                      {
+                          "name": "Panel Sourced",
+                          "value": 0,
+                          "group_name": "hSOURCE_QUOTA",
+                          "value_percent": "0.0%",
+                          "value_subscript": "",
+                          "label": "B"
+                      },
+                      {
+                          "name": "Total",
+                          "value": 1,
+                          "group_name": "hSOURCE_QUOTA",
+                          "value_percent": "100.0%",
+                          "label": "",
+                          "value_subscript": ""
+                      },
+                      {
+                          "name": "Canada",
+                          "value": 0,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "0.0%",
+                          "value_subscript": "",
+                          "label": "C"
+                      },
+                      {
+                          "name": "Germany",
+                          "value": 0,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "0.0%",
+                          "value_subscript": "",
+                          "label": "D"
+                      },
+                      {
+                          "name": "Japan",
+                          "value": 0,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "0.0%",
+                          "value_subscript": "",
+                          "label": "E"
+                      },
+                      {
+                          "name": "Other",
+                          "value": 1,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "0.62%",
+                          "value_subscript": "",
+                          "label": "F"
+                      },
+                      {
+                          "name": "United Kingdom",
+                          "value": 0,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "0.0%",
+                          "value_subscript": "",
+                          "label": "G"
+                      },
+                      {
+                          "name": "United States",
+                          "value": 0,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "0.0%",
+                          "value_subscript": "",
+                          "label": "H"
+                      },
+                      {
+                          "name": "Canada",
+                          "value": 0,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "0.0%",
+                          "value_subscript": "",
+                          "label": "I"
+                      },
+                      {
+                          "name": "Germany",
+                          "value": 0,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "0.0%",
+                          "value_subscript": "",
+                          "label": "J"
+                      },
+                      {
+                          "name": "Japan",
+                          "value": 0,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "0.0%",
+                          "value_subscript": "",
+                          "label": "K"
+                      },
+                      {
+                          "name": "Other",
+                          "value": 1,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "0.62%",
+                          "value_subscript": "",
+                          "label": "L"
+                      },
+                      {
+                          "name": "United Kingdom",
+                          "value": 0,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "0.0%",
+                          "value_subscript": "",
+                          "label": "M"
+                      },
+                      {
+                          "name": "United States",
+                          "value": 0,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "0.0%",
+                          "value_subscript": "",
+                          "label": "N"
+                      },
+                      {
+                          "name": "Canada",
+                          "value": 1,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "100.0%",
+                          "value_subscript": "O",
+                          "label": "O"
+                      },
+                      {
+                          "name": "Germany",
+                          "value": 1,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "100.0%",
+                          "value_subscript": "P",
+                          "label": "P"
+                      },
+                      {
+                          "name": "Japan",
+                          "value": 1,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "100.0%",
+                          "value_subscript": "Q",
+                          "label": "Q"
+                      },
+                      {
+                          "name": "Other",
+                          "value": 1,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "100.0%",
+                          "value_subscript": "R",
+                          "label": "R"
+                      },
+                      {
+                          "name": "United Kingdom",
+                          "value": 1,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "100.0%",
+                          "value_subscript": "S",
+                          "label": "S"
+                      },
+                      {
+                          "name": "United States",
+                          "value": 1,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "100.0%",
+                          "value_subscript": "T",
+                          "label": "T"
+                      }
+                  ]
+              }
+          ]
+      },
+      {
+          "table_name": "Table 3",
+          "question_id": "dTrack",
+          "question_text": "Hidden question to track changes",
+          "base_name": "Base : All Respondents",
+          "base_value": 725,
+          "analysis_text": "Proportions/Means: Columns Tested (5% risk level) - A/B - C/D/E/F/G - H/I/J/K/L - M/N/O/P/Q - H/M - I/N - J/O - K/P - L/Q",
+          "notes_text": "",
+          "rows": [
+              {
+                  "name": "Base : All Respondents",
+                  "columns": [
+                      {
+                          "name": "Member Sourced",
+                          "value": 1,
+                          "group_name": "hSOURCE_QUOTA",
+                          "value_percent": "0.14%",
+                          "value_subscript": "",
+                          "label": "A"
+                      },
+                      {
+                          "name": "Panel Sourced",
+                          "value": 725,
+                          "group_name": "hSOURCE_QUOTA",
+                          "value_percent": "99.86%",
+                          "value_subscript": "B",
+                          "label": "B"
+                      },
+                      {
+                          "name": "Total",
+                          "value": 726,
+                          "group_name": "hSOURCE_QUOTA",
+                          "value_percent": "100.0%",
+                          "label": "",
+                          "value_subscript": ""
+                      },
+                      {
+                          "name": "Canada",
+                          "value": 162,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "93.64%",
+                          "value_subscript": "C",
+                          "label": "C"
+                      },
+                      {
+                          "name": "Germany",
+                          "value": 145,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "83.82%",
+                          "value_subscript": "D",
+                          "label": "D"
+                      },
+                      {
+                          "name": "Japan",
+                          "value": 173,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "100.0%",
+                          "value_subscript": "E",
+                          "label": "E"
+                      },
+                      {
+                          "name": "Other",
+                          "value": 1,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "0.58%",
+                          "value_subscript": "",
+                          "label": "F"
+                      },
+                      {
+                          "name": "United Kingdom",
+                          "value": 118,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "68.21%",
+                          "value_subscript": "G",
+                          "label": "G"
+                      },
+                      {
+                          "name": "United States",
+                          "value": 127,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "73.41%",
+                          "value_subscript": "H",
+                          "label": "H"
+                      },
+                      {
+                          "name": "Canada",
+                          "value": 162,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "93.64%",
+                          "value_subscript": "I",
+                          "label": "I"
+                      },
+                      {
+                          "name": "Germany",
+                          "value": 145,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "83.82%",
+                          "value_subscript": "J",
+                          "label": "J"
+                      },
+                      {
+                          "name": "Japan",
+                          "value": 173,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "100.0%",
+                          "value_subscript": "K",
+                          "label": "K"
+                      },
+                      {
+                          "name": "Other",
+                          "value": 1,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "0.58%",
+                          "value_subscript": "",
+                          "label": "L"
+                      },
+                      {
+                          "name": "United Kingdom",
+                          "value": 118,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "68.21%",
+                          "value_subscript": "M",
+                          "label": "M"
+                      },
+                      {
+                          "name": "United States",
+                          "value": 127,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "73.41%",
+                          "value_subscript": "N",
+                          "label": "N"
+                      },
+                      {
+                          "name": "Canada",
+                          "value": 1,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "100.0%",
+                          "value_subscript": "O",
+                          "label": "O"
+                      },
+                      {
+                          "name": "Germany",
+                          "value": 1,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "100.0%",
+                          "value_subscript": "P",
+                          "label": "P"
+                      },
+                      {
+                          "name": "Japan",
+                          "value": 1,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "100.0%",
+                          "value_subscript": "Q",
+                          "label": "Q"
+                      },
+                      {
+                          "name": "Other",
+                          "value": 1,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "100.0%",
+                          "value_subscript": "R",
+                          "label": "R"
+                      },
+                      {
+                          "name": "United Kingdom",
+                          "value": 1,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "100.0%",
+                          "value_subscript": "S",
+                          "label": "S"
+                      },
+                      {
+                          "name": "United States",
+                          "value": 1,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "100.0%",
+                          "value_subscript": "T",
+                          "label": "T"
+                      }
+                  ]
+              },
+              {
+                  "name": "Panel Sourced",
+                  "columns": [
+                      {
+                          "name": "Member Sourced",
+                          "value": 0,
+                          "group_name": "hSOURCE_QUOTA",
+                          "value_percent": "0.0%",
+                          "value_subscript": "",
+                          "label": "A"
+                      },
+                      {
+                          "name": "Panel Sourced",
+                          "value": 725,
+                          "group_name": "hSOURCE_QUOTA",
+                          "value_percent": "100.0%",
+                          "value_subscript": "B",
+                          "label": "B"
+                      },
+                      {
+                          "name": "Total",
+                          "value": 725,
+                          "group_name": "hSOURCE_QUOTA",
+                          "value_percent": "100.0%",
+                          "label": "",
+                          "value_subscript": ""
+                      },
+                      {
+                          "name": "Canada",
+                          "value": 162,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "111.72%",
+                          "value_subscript": "C",
+                          "label": "C"
+                      },
+                      {
+                          "name": "Germany",
+                          "value": 145,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "100.0%",
+                          "value_subscript": "D",
+                          "label": "D"
+                      },
+                      {
+                          "name": "Japan",
+                          "value": 173,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "119.31%",
+                          "value_subscript": "E",
+                          "label": "E"
+                      },
+                      {
+                          "name": "Other",
+                          "value": 0,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "0.0%",
+                          "value_subscript": "",
+                          "label": "F"
+                      },
+                      {
+                          "name": "United Kingdom",
+                          "value": 118,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "81.38%",
+                          "value_subscript": "G",
+                          "label": "G"
+                      },
+                      {
+                          "name": "United States",
+                          "value": 127,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "87.59%",
+                          "value_subscript": "H",
+                          "label": "H"
+                      },
+                      {
+                          "name": "Canada",
+                          "value": 162,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "111.72%",
+                          "value_subscript": "I",
+                          "label": "I"
+                      },
+                      {
+                          "name": "Germany",
+                          "value": 145,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "100.0%",
+                          "value_subscript": "J",
+                          "label": "J"
+                      },
+                      {
+                          "name": "Japan",
+                          "value": 173,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "119.31%",
+                          "value_subscript": "K",
+                          "label": "K"
+                      },
+                      {
+                          "name": "Other",
+                          "value": 0,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "0.0%",
+                          "value_subscript": "",
+                          "label": "L"
+                      },
+                      {
+                          "name": "United Kingdom",
+                          "value": 118,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "81.38%",
+                          "value_subscript": "M",
+                          "label": "M"
+                      },
+                      {
+                          "name": "United States",
+                          "value": 127,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "87.59%",
+                          "value_subscript": "N",
+                          "label": "N"
+                      },
+                      {
+                          "name": "Canada",
+                          "value": 0,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "0.0%",
+                          "value_subscript": "",
+                          "label": "O"
+                      },
+                      {
+                          "name": "Germany",
+                          "value": 0,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "0.0%",
+                          "value_subscript": "",
+                          "label": "P"
+                      },
+                      {
+                          "name": "Japan",
+                          "value": 0,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "0.0%",
+                          "value_subscript": "",
+                          "label": "Q"
+                      },
+                      {
+                          "name": "Other",
+                          "value": 0,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "0.0%",
+                          "value_subscript": "",
+                          "label": "R"
+                      },
+                      {
+                          "name": "United Kingdom",
+                          "value": 0,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "0.0%",
+                          "value_subscript": "",
+                          "label": "S"
+                      },
+                      {
+                          "name": "United States",
+                          "value": 0,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "0.0%",
+                          "value_subscript": "",
+                          "label": "T"
+                      }
+                  ]
+              },
+              {
+                  "name": "Member Sourced",
+                  "columns": [
+                      {
+                          "name": "Member Sourced",
+                          "value": 1,
+                          "group_name": "hSOURCE_QUOTA",
+                          "value_percent": "100.0%",
+                          "value_subscript": "A",
+                          "label": "A"
+                      },
+                      {
+                          "name": "Panel Sourced",
+                          "value": 0,
+                          "group_name": "hSOURCE_QUOTA",
+                          "value_percent": "0.0%",
+                          "value_subscript": "",
+                          "label": "B"
+                      },
+                      {
+                          "name": "Total",
+                          "value": 1,
+                          "group_name": "hSOURCE_QUOTA",
+                          "value_percent": "100.0%",
+                          "label": "",
+                          "value_subscript": ""
+                      },
+                      {
+                          "name": "Canada",
+                          "value": 0,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "0.0%",
+                          "value_subscript": "",
+                          "label": "C"
+                      },
+                      {
+                          "name": "Germany",
+                          "value": 0,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "0.0%",
+                          "value_subscript": "",
+                          "label": "D"
+                      },
+                      {
+                          "name": "Japan",
+                          "value": 0,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "0.0%",
+                          "value_subscript": "",
+                          "label": "E"
+                      },
+                      {
+                          "name": "Other",
+                          "value": 1,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "0.62%",
+                          "value_subscript": "",
+                          "label": "F"
+                      },
+                      {
+                          "name": "United Kingdom",
+                          "value": 0,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "0.0%",
+                          "value_subscript": "",
+                          "label": "G"
+                      },
+                      {
+                          "name": "United States",
+                          "value": 0,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "0.0%",
+                          "value_subscript": "",
+                          "label": "H"
+                      },
+                      {
+                          "name": "Canada",
+                          "value": 0,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "0.0%",
+                          "value_subscript": "",
+                          "label": "I"
+                      },
+                      {
+                          "name": "Germany",
+                          "value": 0,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "0.0%",
+                          "value_subscript": "",
+                          "label": "J"
+                      },
+                      {
+                          "name": "Japan",
+                          "value": 0,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "0.0%",
+                          "value_subscript": "",
+                          "label": "K"
+                      },
+                      {
+                          "name": "Other",
+                          "value": 1,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "0.62%",
+                          "value_subscript": "",
+                          "label": "L"
+                      },
+                      {
+                          "name": "United Kingdom",
+                          "value": 0,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "0.0%",
+                          "value_subscript": "",
+                          "label": "M"
+                      },
+                      {
+                          "name": "United States",
+                          "value": 0,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "0.0%",
+                          "value_subscript": "",
+                          "label": "N"
+                      },
+                      {
+                          "name": "Canada",
+                          "value": 1,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "100.0%",
+                          "value_subscript": "O",
+                          "label": "O"
+                      },
+                      {
+                          "name": "Germany",
+                          "value": 1,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "100.0%",
+                          "value_subscript": "P",
+                          "label": "P"
+                      },
+                      {
+                          "name": "Japan",
+                          "value": 1,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "100.0%",
+                          "value_subscript": "Q",
+                          "label": "Q"
+                      },
+                      {
+                          "name": "Other",
+                          "value": 1,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "100.0%",
+                          "value_subscript": "R",
+                          "label": "R"
+                      },
+                      {
+                          "name": "United Kingdom",
+                          "value": 1,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "100.0%",
+                          "value_subscript": "S",
+                          "label": "S"
+                      },
+                      {
+                          "name": "United States",
+                          "value": 1,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "100.0%",
+                          "value_subscript": "T",
+                          "label": "T"
+                      }
+                  ]
+              }
+          ]
+      },
+      {
+          "table_name": "Table 4",
+          "question_id": "AGE",
+          "question_text": "Which of the following categories contains your age?Please select one response.",
+          "base_name": "Base : All Respondents",
+          "base_value": 725,
+          "analysis_text": "Proportions/Means: Columns Tested (5% risk level) - A/B - C/D/E/F/G - H/I/J/K/L - M/N/O/P/Q - H/M - I/N - J/O - K/P - L/Q",
+          "notes_text": "",
+          "rows": [
+              {
+                  "name": "Base : All Respondents",
+                  "columns": [
+                      {
+                          "name": "Member Sourced",
+                          "value": 1,
+                          "group_name": "hSOURCE_QUOTA",
+                          "value_percent": "0.14%",
+                          "value_subscript": "",
+                          "label": "A"
+                      },
+                      {
+                          "name": "Panel Sourced",
+                          "value": 725,
+                          "group_name": "hSOURCE_QUOTA",
+                          "value_percent": "99.86%",
+                          "value_subscript": "B",
+                          "label": "B"
+                      },
+                      {
+                          "name": "Total",
+                          "value": 726,
+                          "group_name": "hSOURCE_QUOTA",
+                          "value_percent": "100.0%",
+                          "label": "",
+                          "value_subscript": ""
+                      },
+                      {
+                          "name": "Canada",
+                          "value": 162,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "93.64%",
+                          "value_subscript": "C",
+                          "label": "C"
+                      },
+                      {
+                          "name": "Germany",
+                          "value": 145,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "83.82%",
+                          "value_subscript": "D",
+                          "label": "D"
+                      },
+                      {
+                          "name": "Japan",
+                          "value": 173,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "100.0%",
+                          "value_subscript": "E",
+                          "label": "E"
+                      },
+                      {
+                          "name": "Other",
+                          "value": 1,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "0.58%",
+                          "value_subscript": "",
+                          "label": "F"
+                      },
+                      {
+                          "name": "United Kingdom",
+                          "value": 118,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "68.21%",
+                          "value_subscript": "G",
+                          "label": "G"
+                      },
+                      {
+                          "name": "United States",
+                          "value": 127,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "73.41%",
+                          "value_subscript": "H",
+                          "label": "H"
+                      },
+                      {
+                          "name": "Canada",
+                          "value": 162,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "93.64%",
+                          "value_subscript": "I",
+                          "label": "I"
+                      },
+                      {
+                          "name": "Germany",
+                          "value": 145,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "83.82%",
+                          "value_subscript": "J",
+                          "label": "J"
+                      },
+                      {
+                          "name": "Japan",
+                          "value": 173,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "100.0%",
+                          "value_subscript": "K",
+                          "label": "K"
+                      },
+                      {
+                          "name": "Other",
+                          "value": 1,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "0.58%",
+                          "value_subscript": "",
+                          "label": "L"
+                      },
+                      {
+                          "name": "United Kingdom",
+                          "value": 118,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "68.21%",
+                          "value_subscript": "M",
+                          "label": "M"
+                      },
+                      {
+                          "name": "United States",
+                          "value": 127,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "73.41%",
+                          "value_subscript": "N",
+                          "label": "N"
+                      },
+                      {
+                          "name": "Canada",
+                          "value": 1,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "100.0%",
+                          "value_subscript": "O",
+                          "label": "O"
+                      },
+                      {
+                          "name": "Germany",
+                          "value": 1,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "100.0%",
+                          "value_subscript": "P",
+                          "label": "P"
+                      },
+                      {
+                          "name": "Japan",
+                          "value": 1,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "100.0%",
+                          "value_subscript": "Q",
+                          "label": "Q"
+                      },
+                      {
+                          "name": "Other",
+                          "value": 1,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "100.0%",
+                          "value_subscript": "R",
+                          "label": "R"
+                      },
+                      {
+                          "name": "United Kingdom",
+                          "value": 1,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "100.0%",
+                          "value_subscript": "S",
+                          "label": "S"
+                      },
+                      {
+                          "name": "United States",
+                          "value": 1,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "100.0%",
+                          "value_subscript": "T",
+                          "label": "T"
+                      }
+                  ]
+              },
+              {
+                  "name": "Panel Sourced",
+                  "columns": [
+                      {
+                          "name": "Member Sourced",
+                          "value": 0,
+                          "group_name": "hSOURCE_QUOTA",
+                          "value_percent": "0.0%",
+                          "value_subscript": "",
+                          "label": "A"
+                      },
+                      {
+                          "name": "Panel Sourced",
+                          "value": 725,
+                          "group_name": "hSOURCE_QUOTA",
+                          "value_percent": "100.0%",
+                          "value_subscript": "B",
+                          "label": "B"
+                      },
+                      {
+                          "name": "Total",
+                          "value": 725,
+                          "group_name": "hSOURCE_QUOTA",
+                          "value_percent": "100.0%",
+                          "label": "",
+                          "value_subscript": ""
+                      },
+                      {
+                          "name": "Canada",
+                          "value": 162,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "111.72%",
+                          "value_subscript": "C",
+                          "label": "C"
+                      },
+                      {
+                          "name": "Germany",
+                          "value": 145,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "100.0%",
+                          "value_subscript": "D",
+                          "label": "D"
+                      },
+                      {
+                          "name": "Japan",
+                          "value": 173,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "119.31%",
+                          "value_subscript": "E",
+                          "label": "E"
+                      },
+                      {
+                          "name": "Other",
+                          "value": 0,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "0.0%",
+                          "value_subscript": "",
+                          "label": "F"
+                      },
+                      {
+                          "name": "United Kingdom",
+                          "value": 118,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "81.38%",
+                          "value_subscript": "G",
+                          "label": "G"
+                      },
+                      {
+                          "name": "United States",
+                          "value": 127,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "87.59%",
+                          "value_subscript": "H",
+                          "label": "H"
+                      },
+                      {
+                          "name": "Canada",
+                          "value": 162,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "111.72%",
+                          "value_subscript": "I",
+                          "label": "I"
+                      },
+                      {
+                          "name": "Germany",
+                          "value": 145,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "100.0%",
+                          "value_subscript": "J",
+                          "label": "J"
+                      },
+                      {
+                          "name": "Japan",
+                          "value": 173,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "119.31%",
+                          "value_subscript": "K",
+                          "label": "K"
+                      },
+                      {
+                          "name": "Other",
+                          "value": 0,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "0.0%",
+                          "value_subscript": "",
+                          "label": "L"
+                      },
+                      {
+                          "name": "United Kingdom",
+                          "value": 118,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "81.38%",
+                          "value_subscript": "M",
+                          "label": "M"
+                      },
+                      {
+                          "name": "United States",
+                          "value": 127,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "87.59%",
+                          "value_subscript": "N",
+                          "label": "N"
+                      },
+                      {
+                          "name": "Canada",
+                          "value": 0,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "0.0%",
+                          "value_subscript": "",
+                          "label": "O"
+                      },
+                      {
+                          "name": "Germany",
+                          "value": 0,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "0.0%",
+                          "value_subscript": "",
+                          "label": "P"
+                      },
+                      {
+                          "name": "Japan",
+                          "value": 0,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "0.0%",
+                          "value_subscript": "",
+                          "label": "Q"
+                      },
+                      {
+                          "name": "Other",
+                          "value": 0,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "0.0%",
+                          "value_subscript": "",
+                          "label": "R"
+                      },
+                      {
+                          "name": "United Kingdom",
+                          "value": 0,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "0.0%",
+                          "value_subscript": "",
+                          "label": "S"
+                      },
+                      {
+                          "name": "United States",
+                          "value": 0,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "0.0%",
+                          "value_subscript": "",
+                          "label": "T"
+                      }
+                  ]
+              },
+              {
+                  "name": "Member Sourced",
+                  "columns": [
+                      {
+                          "name": "Member Sourced",
+                          "value": 1,
+                          "group_name": "hSOURCE_QUOTA",
+                          "value_percent": "100.0%",
+                          "value_subscript": "A",
+                          "label": "A"
+                      },
+                      {
+                          "name": "Panel Sourced",
+                          "value": 0,
+                          "group_name": "hSOURCE_QUOTA",
+                          "value_percent": "0.0%",
+                          "value_subscript": "",
+                          "label": "B"
+                      },
+                      {
+                          "name": "Total",
+                          "value": 1,
+                          "group_name": "hSOURCE_QUOTA",
+                          "value_percent": "100.0%",
+                          "label": "",
+                          "value_subscript": ""
+                      },
+                      {
+                          "name": "Canada",
+                          "value": 0,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "0.0%",
+                          "value_subscript": "",
+                          "label": "C"
+                      },
+                      {
+                          "name": "Germany",
+                          "value": 0,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "0.0%",
+                          "value_subscript": "",
+                          "label": "D"
+                      },
+                      {
+                          "name": "Japan",
+                          "value": 0,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "0.0%",
+                          "value_subscript": "",
+                          "label": "E"
+                      },
+                      {
+                          "name": "Other",
+                          "value": 1,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "0.62%",
+                          "value_subscript": "",
+                          "label": "F"
+                      },
+                      {
+                          "name": "United Kingdom",
+                          "value": 0,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "0.0%",
+                          "value_subscript": "",
+                          "label": "G"
+                      },
+                      {
+                          "name": "United States",
+                          "value": 0,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "0.0%",
+                          "value_subscript": "",
+                          "label": "H"
+                      },
+                      {
+                          "name": "Canada",
+                          "value": 0,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "0.0%",
+                          "value_subscript": "",
+                          "label": "I"
+                      },
+                      {
+                          "name": "Germany",
+                          "value": 0,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "0.0%",
+                          "value_subscript": "",
+                          "label": "J"
+                      },
+                      {
+                          "name": "Japan",
+                          "value": 0,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "0.0%",
+                          "value_subscript": "",
+                          "label": "K"
+                      },
+                      {
+                          "name": "Other",
+                          "value": 1,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "0.62%",
+                          "value_subscript": "",
+                          "label": "L"
+                      },
+                      {
+                          "name": "United Kingdom",
+                          "value": 0,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "0.0%",
+                          "value_subscript": "",
+                          "label": "M"
+                      },
+                      {
+                          "name": "United States",
+                          "value": 0,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "0.0%",
+                          "value_subscript": "",
+                          "label": "N"
+                      },
+                      {
+                          "name": "Canada",
+                          "value": 1,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "100.0%",
+                          "value_subscript": "O",
+                          "label": "O"
+                      },
+                      {
+                          "name": "Germany",
+                          "value": 1,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "100.0%",
+                          "value_subscript": "P",
+                          "label": "P"
+                      },
+                      {
+                          "name": "Japan",
+                          "value": 1,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "100.0%",
+                          "value_subscript": "Q",
+                          "label": "Q"
+                      },
+                      {
+                          "name": "Other",
+                          "value": 1,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "100.0%",
+                          "value_subscript": "R",
+                          "label": "R"
+                      },
+                      {
+                          "name": "United Kingdom",
+                          "value": 1,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "100.0%",
+                          "value_subscript": "S",
+                          "label": "S"
+                      },
+                      {
+                          "name": "United States",
+                          "value": 1,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "100.0%",
+                          "value_subscript": "T",
+                          "label": "T"
+                      }
+                  ]
+              }
+          ]
+      },
+      {
+          "table_name": "Table 5",
+          "question_id": "EMP",
+          "question_text": "What is your employment status?Please select one response.",
+          "base_name": "Base : All Respondents",
+          "base_value": 725,
+          "analysis_text": "Proportions/Means: Columns Tested (5% risk level) - A/B - C/D/E/F/G - H/I/J/K/L - M/N/O/P/Q - H/M - I/N - J/O - K/P - L/Q",
+          "notes_text": "",
+          "rows": [
+              {
+                  "name": "Base : All Respondents",
+                  "columns": [
+                      {
+                          "name": "Member Sourced",
+                          "value": 1,
+                          "group_name": "hSOURCE_QUOTA",
+                          "value_percent": "0.14%",
+                          "value_subscript": "",
+                          "label": "A"
+                      },
+                      {
+                          "name": "Panel Sourced",
+                          "value": 725,
+                          "group_name": "hSOURCE_QUOTA",
+                          "value_percent": "99.86%",
+                          "value_subscript": "B",
+                          "label": "B"
+                      },
+                      {
+                          "name": "Total",
+                          "value": 726,
+                          "group_name": "hSOURCE_QUOTA",
+                          "value_percent": "100.0%",
+                          "label": "",
+                          "value_subscript": ""
+                      },
+                      {
+                          "name": "Canada",
+                          "value": 162,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "93.64%",
+                          "value_subscript": "C",
+                          "label": "C"
+                      },
+                      {
+                          "name": "Germany",
+                          "value": 145,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "83.82%",
+                          "value_subscript": "D",
+                          "label": "D"
+                      },
+                      {
+                          "name": "Japan",
+                          "value": 173,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "100.0%",
+                          "value_subscript": "E",
+                          "label": "E"
+                      },
+                      {
+                          "name": "Other",
+                          "value": 1,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "0.58%",
+                          "value_subscript": "",
+                          "label": "F"
+                      },
+                      {
+                          "name": "United Kingdom",
+                          "value": 118,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "68.21%",
+                          "value_subscript": "G",
+                          "label": "G"
+                      },
+                      {
+                          "name": "United States",
+                          "value": 127,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "73.41%",
+                          "value_subscript": "H",
+                          "label": "H"
+                      },
+                      {
+                          "name": "Canada",
+                          "value": 162,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "93.64%",
+                          "value_subscript": "I",
+                          "label": "I"
+                      },
+                      {
+                          "name": "Germany",
+                          "value": 145,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "83.82%",
+                          "value_subscript": "J",
+                          "label": "J"
+                      },
+                      {
+                          "name": "Japan",
+                          "value": 173,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "100.0%",
+                          "value_subscript": "K",
+                          "label": "K"
+                      },
+                      {
+                          "name": "Other",
+                          "value": 1,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "0.58%",
+                          "value_subscript": "",
+                          "label": "L"
+                      },
+                      {
+                          "name": "United Kingdom",
+                          "value": 118,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "68.21%",
+                          "value_subscript": "M",
+                          "label": "M"
+                      },
+                      {
+                          "name": "United States",
+                          "value": 127,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "73.41%",
+                          "value_subscript": "N",
+                          "label": "N"
+                      },
+                      {
+                          "name": "Canada",
+                          "value": 1,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "100.0%",
+                          "value_subscript": "O",
+                          "label": "O"
+                      },
+                      {
+                          "name": "Germany",
+                          "value": 1,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "100.0%",
+                          "value_subscript": "P",
+                          "label": "P"
+                      },
+                      {
+                          "name": "Japan",
+                          "value": 1,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "100.0%",
+                          "value_subscript": "Q",
+                          "label": "Q"
+                      },
+                      {
+                          "name": "Other",
+                          "value": 1,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "100.0%",
+                          "value_subscript": "R",
+                          "label": "R"
+                      },
+                      {
+                          "name": "United Kingdom",
+                          "value": 1,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "100.0%",
+                          "value_subscript": "S",
+                          "label": "S"
+                      },
+                      {
+                          "name": "United States",
+                          "value": 1,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "100.0%",
+                          "value_subscript": "T",
+                          "label": "T"
+                      }
+                  ]
+              },
+              {
+                  "name": "Panel Sourced",
+                  "columns": [
+                      {
+                          "name": "Member Sourced",
+                          "value": 0,
+                          "group_name": "hSOURCE_QUOTA",
+                          "value_percent": "0.0%",
+                          "value_subscript": "",
+                          "label": "A"
+                      },
+                      {
+                          "name": "Panel Sourced",
+                          "value": 725,
+                          "group_name": "hSOURCE_QUOTA",
+                          "value_percent": "100.0%",
+                          "value_subscript": "B",
+                          "label": "B"
+                      },
+                      {
+                          "name": "Total",
+                          "value": 725,
+                          "group_name": "hSOURCE_QUOTA",
+                          "value_percent": "100.0%",
+                          "label": "",
+                          "value_subscript": ""
+                      },
+                      {
+                          "name": "Canada",
+                          "value": 162,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "111.72%",
+                          "value_subscript": "C",
+                          "label": "C"
+                      },
+                      {
+                          "name": "Germany",
+                          "value": 145,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "100.0%",
+                          "value_subscript": "D",
+                          "label": "D"
+                      },
+                      {
+                          "name": "Japan",
+                          "value": 173,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "119.31%",
+                          "value_subscript": "E",
+                          "label": "E"
+                      },
+                      {
+                          "name": "Other",
+                          "value": 0,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "0.0%",
+                          "value_subscript": "",
+                          "label": "F"
+                      },
+                      {
+                          "name": "United Kingdom",
+                          "value": 118,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "81.38%",
+                          "value_subscript": "G",
+                          "label": "G"
+                      },
+                      {
+                          "name": "United States",
+                          "value": 127,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "87.59%",
+                          "value_subscript": "H",
+                          "label": "H"
+                      },
+                      {
+                          "name": "Canada",
+                          "value": 162,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "111.72%",
+                          "value_subscript": "I",
+                          "label": "I"
+                      },
+                      {
+                          "name": "Germany",
+                          "value": 145,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "100.0%",
+                          "value_subscript": "J",
+                          "label": "J"
+                      },
+                      {
+                          "name": "Japan",
+                          "value": 173,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "119.31%",
+                          "value_subscript": "K",
+                          "label": "K"
+                      },
+                      {
+                          "name": "Other",
+                          "value": 0,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "0.0%",
+                          "value_subscript": "",
+                          "label": "L"
+                      },
+                      {
+                          "name": "United Kingdom",
+                          "value": 118,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "81.38%",
+                          "value_subscript": "M",
+                          "label": "M"
+                      },
+                      {
+                          "name": "United States",
+                          "value": 127,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "87.59%",
+                          "value_subscript": "N",
+                          "label": "N"
+                      },
+                      {
+                          "name": "Canada",
+                          "value": 0,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "0.0%",
+                          "value_subscript": "",
+                          "label": "O"
+                      },
+                      {
+                          "name": "Germany",
+                          "value": 0,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "0.0%",
+                          "value_subscript": "",
+                          "label": "P"
+                      },
+                      {
+                          "name": "Japan",
+                          "value": 0,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "0.0%",
+                          "value_subscript": "",
+                          "label": "Q"
+                      },
+                      {
+                          "name": "Other",
+                          "value": 0,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "0.0%",
+                          "value_subscript": "",
+                          "label": "R"
+                      },
+                      {
+                          "name": "United Kingdom",
+                          "value": 0,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "0.0%",
+                          "value_subscript": "",
+                          "label": "S"
+                      },
+                      {
+                          "name": "United States",
+                          "value": 0,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "0.0%",
+                          "value_subscript": "",
+                          "label": "T"
+                      }
+                  ]
+              },
+              {
+                  "name": "Member Sourced",
+                  "columns": [
+                      {
+                          "name": "Member Sourced",
+                          "value": 1,
+                          "group_name": "hSOURCE_QUOTA",
+                          "value_percent": "100.0%",
+                          "value_subscript": "A",
+                          "label": "A"
+                      },
+                      {
+                          "name": "Panel Sourced",
+                          "value": 0,
+                          "group_name": "hSOURCE_QUOTA",
+                          "value_percent": "0.0%",
+                          "value_subscript": "",
+                          "label": "B"
+                      },
+                      {
+                          "name": "Total",
+                          "value": 1,
+                          "group_name": "hSOURCE_QUOTA",
+                          "value_percent": "100.0%",
+                          "label": "",
+                          "value_subscript": ""
+                      },
+                      {
+                          "name": "Canada",
+                          "value": 0,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "0.0%",
+                          "value_subscript": "",
+                          "label": "C"
+                      },
+                      {
+                          "name": "Germany",
+                          "value": 0,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "0.0%",
+                          "value_subscript": "",
+                          "label": "D"
+                      },
+                      {
+                          "name": "Japan",
+                          "value": 0,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "0.0%",
+                          "value_subscript": "",
+                          "label": "E"
+                      },
+                      {
+                          "name": "Other",
+                          "value": 1,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "0.62%",
+                          "value_subscript": "",
+                          "label": "F"
+                      },
+                      {
+                          "name": "United Kingdom",
+                          "value": 0,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "0.0%",
+                          "value_subscript": "",
+                          "label": "G"
+                      },
+                      {
+                          "name": "United States",
+                          "value": 0,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "0.0%",
+                          "value_subscript": "",
+                          "label": "H"
+                      },
+                      {
+                          "name": "Canada",
+                          "value": 0,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "0.0%",
+                          "value_subscript": "",
+                          "label": "I"
+                      },
+                      {
+                          "name": "Germany",
+                          "value": 0,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "0.0%",
+                          "value_subscript": "",
+                          "label": "J"
+                      },
+                      {
+                          "name": "Japan",
+                          "value": 0,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "0.0%",
+                          "value_subscript": "",
+                          "label": "K"
+                      },
+                      {
+                          "name": "Other",
+                          "value": 1,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "0.62%",
+                          "value_subscript": "",
+                          "label": "L"
+                      },
+                      {
+                          "name": "United Kingdom",
+                          "value": 0,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "0.0%",
+                          "value_subscript": "",
+                          "label": "M"
+                      },
+                      {
+                          "name": "United States",
+                          "value": 0,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "0.0%",
+                          "value_subscript": "",
+                          "label": "N"
+                      },
+                      {
+                          "name": "Canada",
+                          "value": 1,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "100.0%",
+                          "value_subscript": "O",
+                          "label": "O"
+                      },
+                      {
+                          "name": "Germany",
+                          "value": 1,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "100.0%",
+                          "value_subscript": "P",
+                          "label": "P"
+                      },
+                      {
+                          "name": "Japan",
+                          "value": 1,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "100.0%",
+                          "value_subscript": "Q",
+                          "label": "Q"
+                      },
+                      {
+                          "name": "Other",
+                          "value": 1,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "100.0%",
+                          "value_subscript": "R",
+                          "label": "R"
+                      },
+                      {
+                          "name": "United Kingdom",
+                          "value": 1,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "100.0%",
+                          "value_subscript": "S",
+                          "label": "S"
+                      },
+                      {
+                          "name": "United States",
+                          "value": 1,
+                          "group_name": "hPanelCountry",
+                          "value_percent": "100.0%",
+                          "value_subscript": "T",
+                          "label": "T"
+                      }
+                  ]
+              }
+          ]
+      }
+  ]
+}

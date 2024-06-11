@@ -1,0 +1,712 @@
+[
+    {
+        "respid": 60002,
+        "status": "Complete",
+        "questions": [
+            {
+                "question_id": "AGE",
+                "question_label": "Which of the following categories contains your age?Please select one response.",
+                "answer_code": "5"
+            },
+            {
+                "question_id": "Quotafull",
+                "question_label": "Hidden question to get the question ids for various quotafull respondents.",
+                "answer_code": ""
+            },
+            {
+                "question_id": "Screened",
+                "question_label": "Hidden question to get the question ids for various screened respondents.",
+                "answer_code": ""
+            },
+            {
+                "question_id": "hPanelCountry",
+                "question_label": "Hidden question for Country to punch from Panel",
+                "answer_code": "5"
+            },
+            {
+                "question_id": "EMP",
+                "question_label": "What is your employment status?Please select one response.",
+                "answer_code": "1"
+            },
+            {
+                "question_id": "IND",
+                "question_label": "Which of the following best describes the industry in which you are employed?Please select one response.",
+                "answer_code": "16"
+            },
+            {
+                "question_id": "HIRE_AUTH",
+                "question_label": "Do you have hiring authority or influence over hiring decisions made within your company?",
+                "answer_code": "4"
+            },
+            {
+                "question_id": "l",
+                "question_label": "What is your preferred language for taking this survey?Welche Sprache bevorzugen Sie f\u00fcr die Teilnahme an dieser Umfrage?\u3053\u306e\u30a2\u30f3\u30b1\u30fc\u30c8\u8abf\u67fb\u3078\u306e\u56de\u7b54\u306b\u4f7f\u7528\u3059\u308b\u8a00\u8a9e\u3092\u9078\u629e\u3057\u3066\u304f\u3060\u3055\u3044\u3002",
+                "answer_code": "1"
+            },
+            {
+                "question_id": "qHidMode",
+                "question_label": "Hidden question to track mode...",
+                "answer_code": "2"
+            },
+            {
+                "question_id": "DeviceType",
+                "question_label": "Hidden: DeviceType",
+                "answer_code": "1"
+            },
+            {
+                "question_id": "IMPRESS_ORG_4",
+                "question_label": "EC-Council (Please describe your opinion of each organization in the table below.)",
+                "answer_code": ""
+            },
+            {
+                "question_id": "BA_1_3",
+                "question_label": "(ISC)2 (Statement ^f('hLoop_Counter_1').toNumber()^ of 11 Please, consider carefully the statement below and choose an option for the certification organization(s) based on what you know about them or have experienced with them: You think that the statement describes the organization well (i.e., fits with what you know about it), or You think that the statement does not describe the organization well (i.e., does not fit with what you know about it), or You don't know or are not sureYou must select one answer for each organization. ^f('Loop_BA')^)",
+                "answer_code": ""
+            },
+            {
+                "question_id": "BA_1_8",
+                "question_label": "(ISC)2 (Statement ^f('hLoop_Counter_1').toNumber()^ of 11 Please, consider carefully the statement below and choose an option for the certification organization(s) based on what you know about them or have experienced with them: You think that the statement describes the organization well (i.e., fits with what you know about it), or You think that the statement does not describe the organization well (i.e., does not fit with what you know about it), or You don't know or are not sureYou must select one answer for each organization. ^f('Loop_BA')^)",
+                "answer_code": ""
+            }
+        ]
+    },
+    {
+        "respid": 30002,
+        "status": "Complete",
+        "questions": [
+            {
+                "question_id": "AGE",
+                "question_label": "Which of the following categories contains your age?Please select one response.",
+                "answer_code": "7"
+            },
+            {
+                "question_id": "Quotafull",
+                "question_label": "Hidden question to get the question ids for various quotafull respondents.",
+                "answer_code": ""
+            },
+            {
+                "question_id": "Screened",
+                "question_label": "Hidden question to get the question ids for various screened respondents.",
+                "answer_code": ""
+            },
+            {
+                "question_id": "hPanelCountry",
+                "question_label": "Hidden question for Country to punch from Panel",
+                "answer_code": "3"
+            },
+            {
+                "question_id": "EMP",
+                "question_label": "What is your employment status?Please select one response.",
+                "answer_code": "1"
+            },
+            {
+                "question_id": "IND",
+                "question_label": "Which of the following best describes the industry in which you are employed?Please select one response.",
+                "answer_code": "29"
+            },
+            {
+                "question_id": "HIRE_AUTH",
+                "question_label": "Do you have hiring authority or influence over hiring decisions made within your company?",
+                "answer_code": "2"
+            },
+            {
+                "question_id": "l",
+                "question_label": "What is your preferred language for taking this survey?Welche Sprache bevorzugen Sie f\u00fcr die Teilnahme an dieser Umfrage?\u3053\u306e\u30a2\u30f3\u30b1\u30fc\u30c8\u8abf\u67fb\u3078\u306e\u56de\u7b54\u306b\u4f7f\u7528\u3059\u308b\u8a00\u8a9e\u3092\u9078\u629e\u3057\u3066\u304f\u3060\u3055\u3044\u3002",
+                "answer_code": "17"
+            },
+            {
+                "question_id": "qHidMode",
+                "question_label": "Hidden question to track mode...",
+                "answer_code": "2"
+            },
+            {
+                "question_id": "DeviceType",
+                "question_label": "Hidden: DeviceType",
+                "answer_code": "1"
+            },
+            {
+                "question_id": "IMPRESS_ORG_4",
+                "question_label": "EC-Council (Please describe your opinion of each organization in the table below.)",
+                "answer_code": "2.0"
+            },
+            {
+                "question_id": "BA_1_3",
+                "question_label": "(ISC)2 (Statement ^f('hLoop_Counter_1').toNumber()^ of 11 Please, consider carefully the statement below and choose an option for the certification organization(s) based on what you know about them or have experienced with them: You think that the statement describes the organization well (i.e., fits with what you know about it), or You think that the statement does not describe the organization well (i.e., does not fit with what you know about it), or You don't know or are not sureYou must select one answer for each organization. ^f('Loop_BA')^)",
+                "answer_code": "2.0"
+            },
+            {
+                "question_id": "BA_1_8",
+                "question_label": "(ISC)2 (Statement ^f('hLoop_Counter_1').toNumber()^ of 11 Please, consider carefully the statement below and choose an option for the certification organization(s) based on what you know about them or have experienced with them: You think that the statement describes the organization well (i.e., fits with what you know about it), or You think that the statement does not describe the organization well (i.e., does not fit with what you know about it), or You don't know or are not sureYou must select one answer for each organization. ^f('Loop_BA')^)",
+                "answer_code": "1.0"
+            }
+        ]
+    },
+    {
+        "respid": 45003,
+        "status": "Complete",
+        "questions": [
+            {
+                "question_id": "AGE",
+                "question_label": "Which of the following categories contains your age?Please select one response.",
+                "answer_code": "3"
+            },
+            {
+                "question_id": "Quotafull",
+                "question_label": "Hidden question to get the question ids for various quotafull respondents.",
+                "answer_code": ""
+            },
+            {
+                "question_id": "Screened",
+                "question_label": "Hidden question to get the question ids for various screened respondents.",
+                "answer_code": ""
+            },
+            {
+                "question_id": "hPanelCountry",
+                "question_label": "Hidden question for Country to punch from Panel",
+                "answer_code": "4"
+            },
+            {
+                "question_id": "EMP",
+                "question_label": "What is your employment status?Please select one response.",
+                "answer_code": "1"
+            },
+            {
+                "question_id": "IND",
+                "question_label": "Which of the following best describes the industry in which you are employed?Please select one response.",
+                "answer_code": "22"
+            },
+            {
+                "question_id": "HIRE_AUTH",
+                "question_label": "Do you have hiring authority or influence over hiring decisions made within your company?",
+                "answer_code": "2"
+            },
+            {
+                "question_id": "l",
+                "question_label": "What is your preferred language for taking this survey?Welche Sprache bevorzugen Sie f\u00fcr die Teilnahme an dieser Umfrage?\u3053\u306e\u30a2\u30f3\u30b1\u30fc\u30c8\u8abf\u67fb\u3078\u306e\u56de\u7b54\u306b\u4f7f\u7528\u3059\u308b\u8a00\u8a9e\u3092\u9078\u629e\u3057\u3066\u304f\u3060\u3055\u3044\u3002",
+                "answer_code": "1"
+            },
+            {
+                "question_id": "qHidMode",
+                "question_label": "Hidden question to track mode...",
+                "answer_code": "2"
+            },
+            {
+                "question_id": "DeviceType",
+                "question_label": "Hidden: DeviceType",
+                "answer_code": "1"
+            },
+            {
+                "question_id": "IMPRESS_ORG_4",
+                "question_label": "EC-Council (Please describe your opinion of each organization in the table below.)",
+                "answer_code": "2.0"
+            },
+            {
+                "question_id": "BA_1_3",
+                "question_label": "(ISC)2 (Statement ^f('hLoop_Counter_1').toNumber()^ of 11 Please, consider carefully the statement below and choose an option for the certification organization(s) based on what you know about them or have experienced with them: You think that the statement describes the organization well (i.e., fits with what you know about it), or You think that the statement does not describe the organization well (i.e., does not fit with what you know about it), or You don't know or are not sureYou must select one answer for each organization. ^f('Loop_BA')^)",
+                "answer_code": "1.0"
+            },
+            {
+                "question_id": "BA_1_8",
+                "question_label": "(ISC)2 (Statement ^f('hLoop_Counter_1').toNumber()^ of 11 Please, consider carefully the statement below and choose an option for the certification organization(s) based on what you know about them or have experienced with them: You think that the statement describes the organization well (i.e., fits with what you know about it), or You think that the statement does not describe the organization well (i.e., does not fit with what you know about it), or You don't know or are not sureYou must select one answer for each organization. ^f('Loop_BA')^)",
+                "answer_code": "1.0"
+            }
+        ]
+    },
+    {
+        "respid": 15002,
+        "status": "Complete",
+        "questions": [
+            {
+                "question_id": "AGE",
+                "question_label": "Which of the following categories contains your age?Please select one response.",
+                "answer_code": "2"
+            },
+            {
+                "question_id": "Quotafull",
+                "question_label": "Hidden question to get the question ids for various quotafull respondents.",
+                "answer_code": ""
+            },
+            {
+                "question_id": "Screened",
+                "question_label": "Hidden question to get the question ids for various screened respondents.",
+                "answer_code": ""
+            },
+            {
+                "question_id": "hPanelCountry",
+                "question_label": "Hidden question for Country to punch from Panel",
+                "answer_code": "2"
+            },
+            {
+                "question_id": "EMP",
+                "question_label": "What is your employment status?Please select one response.",
+                "answer_code": "1"
+            },
+            {
+                "question_id": "IND",
+                "question_label": "Which of the following best describes the industry in which you are employed?Please select one response.",
+                "answer_code": "22"
+            },
+            {
+                "question_id": "HIRE_AUTH",
+                "question_label": "Do you have hiring authority or influence over hiring decisions made within your company?",
+                "answer_code": "2"
+            },
+            {
+                "question_id": "l",
+                "question_label": "What is your preferred language for taking this survey?Welche Sprache bevorzugen Sie f\u00fcr die Teilnahme an dieser Umfrage?\u3053\u306e\u30a2\u30f3\u30b1\u30fc\u30c8\u8abf\u67fb\u3078\u306e\u56de\u7b54\u306b\u4f7f\u7528\u3059\u308b\u8a00\u8a9e\u3092\u9078\u629e\u3057\u3066\u304f\u3060\u3055\u3044\u3002",
+                "answer_code": "7"
+            },
+            {
+                "question_id": "qHidMode",
+                "question_label": "Hidden question to track mode...",
+                "answer_code": "2"
+            },
+            {
+                "question_id": "DeviceType",
+                "question_label": "Hidden: DeviceType",
+                "answer_code": "2"
+            },
+            {
+                "question_id": "IMPRESS_ORG_4",
+                "question_label": "EC-Council (Please describe your opinion of each organization in the table below.)",
+                "answer_code": ""
+            },
+            {
+                "question_id": "BA_1_3",
+                "question_label": "(ISC)2 (Statement ^f('hLoop_Counter_1').toNumber()^ of 11 Please, consider carefully the statement below and choose an option for the certification organization(s) based on what you know about them or have experienced with them: You think that the statement describes the organization well (i.e., fits with what you know about it), or You think that the statement does not describe the organization well (i.e., does not fit with what you know about it), or You don't know or are not sureYou must select one answer for each organization. ^f('Loop_BA')^)",
+                "answer_code": "3.0"
+            },
+            {
+                "question_id": "BA_1_8",
+                "question_label": "(ISC)2 (Statement ^f('hLoop_Counter_1').toNumber()^ of 11 Please, consider carefully the statement below and choose an option for the certification organization(s) based on what you know about them or have experienced with them: You think that the statement describes the organization well (i.e., fits with what you know about it), or You think that the statement does not describe the organization well (i.e., does not fit with what you know about it), or You don't know or are not sureYou must select one answer for each organization. ^f('Loop_BA')^)",
+                "answer_code": "1.0"
+            }
+        ]
+    },
+    {
+        "respid": 15004,
+        "status": "Complete",
+        "questions": [
+            {
+                "question_id": "AGE",
+                "question_label": "Which of the following categories contains your age?Please select one response.",
+                "answer_code": "4"
+            },
+            {
+                "question_id": "Quotafull",
+                "question_label": "Hidden question to get the question ids for various quotafull respondents.",
+                "answer_code": ""
+            },
+            {
+                "question_id": "Screened",
+                "question_label": "Hidden question to get the question ids for various screened respondents.",
+                "answer_code": ""
+            },
+            {
+                "question_id": "hPanelCountry",
+                "question_label": "Hidden question for Country to punch from Panel",
+                "answer_code": "2"
+            },
+            {
+                "question_id": "EMP",
+                "question_label": "What is your employment status?Please select one response.",
+                "answer_code": "1"
+            },
+            {
+                "question_id": "IND",
+                "question_label": "Which of the following best describes the industry in which you are employed?Please select one response.",
+                "answer_code": "11"
+            },
+            {
+                "question_id": "HIRE_AUTH",
+                "question_label": "Do you have hiring authority or influence over hiring decisions made within your company?",
+                "answer_code": "3"
+            },
+            {
+                "question_id": "l",
+                "question_label": "What is your preferred language for taking this survey?Welche Sprache bevorzugen Sie f\u00fcr die Teilnahme an dieser Umfrage?\u3053\u306e\u30a2\u30f3\u30b1\u30fc\u30c8\u8abf\u67fb\u3078\u306e\u56de\u7b54\u306b\u4f7f\u7528\u3059\u308b\u8a00\u8a9e\u3092\u9078\u629e\u3057\u3066\u304f\u3060\u3055\u3044\u3002",
+                "answer_code": "7"
+            },
+            {
+                "question_id": "qHidMode",
+                "question_label": "Hidden question to track mode...",
+                "answer_code": "2"
+            },
+            {
+                "question_id": "DeviceType",
+                "question_label": "Hidden: DeviceType",
+                "answer_code": "1"
+            },
+            {
+                "question_id": "IMPRESS_ORG_4",
+                "question_label": "EC-Council (Please describe your opinion of each organization in the table below.)",
+                "answer_code": ""
+            },
+            {
+                "question_id": "BA_1_3",
+                "question_label": "(ISC)2 (Statement ^f('hLoop_Counter_1').toNumber()^ of 11 Please, consider carefully the statement below and choose an option for the certification organization(s) based on what you know about them or have experienced with them: You think that the statement describes the organization well (i.e., fits with what you know about it), or You think that the statement does not describe the organization well (i.e., does not fit with what you know about it), or You don't know or are not sureYou must select one answer for each organization. ^f('Loop_BA')^)",
+                "answer_code": "1.0"
+            },
+            {
+                "question_id": "BA_1_8",
+                "question_label": "(ISC)2 (Statement ^f('hLoop_Counter_1').toNumber()^ of 11 Please, consider carefully the statement below and choose an option for the certification organization(s) based on what you know about them or have experienced with them: You think that the statement describes the organization well (i.e., fits with what you know about it), or You think that the statement does not describe the organization well (i.e., does not fit with what you know about it), or You don't know or are not sureYou must select one answer for each organization. ^f('Loop_BA')^)",
+                "answer_code": "2.0"
+            }
+        ]
+    },
+    {
+        "respid": 7,
+        "status": "Complete",
+        "questions": [
+            {
+                "question_id": "AGE",
+                "question_label": "Which of the following categories contains your age?Please select one response.",
+                "answer_code": "2"
+            },
+            {
+                "question_id": "Quotafull",
+                "question_label": "Hidden question to get the question ids for various quotafull respondents.",
+                "answer_code": ""
+            },
+            {
+                "question_id": "Screened",
+                "question_label": "Hidden question to get the question ids for various screened respondents.",
+                "answer_code": ""
+            },
+            {
+                "question_id": "hPanelCountry",
+                "question_label": "Hidden question for Country to punch from Panel",
+                "answer_code": "1"
+            },
+            {
+                "question_id": "EMP",
+                "question_label": "What is your employment status?Please select one response.",
+                "answer_code": "1"
+            },
+            {
+                "question_id": "IND",
+                "question_label": "Which of the following best describes the industry in which you are employed?Please select one response.",
+                "answer_code": "22"
+            },
+            {
+                "question_id": "HIRE_AUTH",
+                "question_label": "Do you have hiring authority or influence over hiring decisions made within your company?",
+                "answer_code": "3"
+            },
+            {
+                "question_id": "l",
+                "question_label": "What is your preferred language for taking this survey?Welche Sprache bevorzugen Sie f\u00fcr die Teilnahme an dieser Umfrage?\u3053\u306e\u30a2\u30f3\u30b1\u30fc\u30c8\u8abf\u67fb\u3078\u306e\u56de\u7b54\u306b\u4f7f\u7528\u3059\u308b\u8a00\u8a9e\u3092\u9078\u629e\u3057\u3066\u304f\u3060\u3055\u3044\u3002",
+                "answer_code": "1"
+            },
+            {
+                "question_id": "qHidMode",
+                "question_label": "Hidden question to track mode...",
+                "answer_code": "2"
+            },
+            {
+                "question_id": "DeviceType",
+                "question_label": "Hidden: DeviceType",
+                "answer_code": "2"
+            },
+            {
+                "question_id": "IMPRESS_ORG_4",
+                "question_label": "EC-Council (Please describe your opinion of each organization in the table below.)",
+                "answer_code": "1.0"
+            },
+            {
+                "question_id": "BA_1_3",
+                "question_label": "(ISC)2 (Statement ^f('hLoop_Counter_1').toNumber()^ of 11 Please, consider carefully the statement below and choose an option for the certification organization(s) based on what you know about them or have experienced with them: You think that the statement describes the organization well (i.e., fits with what you know about it), or You think that the statement does not describe the organization well (i.e., does not fit with what you know about it), or You don't know or are not sureYou must select one answer for each organization. ^f('Loop_BA')^)",
+                "answer_code": "2.0"
+            },
+            {
+                "question_id": "BA_1_8",
+                "question_label": "(ISC)2 (Statement ^f('hLoop_Counter_1').toNumber()^ of 11 Please, consider carefully the statement below and choose an option for the certification organization(s) based on what you know about them or have experienced with them: You think that the statement describes the organization well (i.e., fits with what you know about it), or You think that the statement does not describe the organization well (i.e., does not fit with what you know about it), or You don't know or are not sureYou must select one answer for each organization. ^f('Loop_BA')^)",
+                "answer_code": "2.0"
+            }
+        ]
+    },
+    {
+        "respid": 15007,
+        "status": "Complete",
+        "questions": [
+            {
+                "question_id": "AGE",
+                "question_label": "Which of the following categories contains your age?Please select one response.",
+                "answer_code": "9"
+            },
+            {
+                "question_id": "Quotafull",
+                "question_label": "Hidden question to get the question ids for various quotafull respondents.",
+                "answer_code": ""
+            },
+            {
+                "question_id": "Screened",
+                "question_label": "Hidden question to get the question ids for various screened respondents.",
+                "answer_code": ""
+            },
+            {
+                "question_id": "hPanelCountry",
+                "question_label": "Hidden question for Country to punch from Panel",
+                "answer_code": "2"
+            },
+            {
+                "question_id": "EMP",
+                "question_label": "What is your employment status?Please select one response.",
+                "answer_code": "1"
+            },
+            {
+                "question_id": "IND",
+                "question_label": "Which of the following best describes the industry in which you are employed?Please select one response.",
+                "answer_code": "13"
+            },
+            {
+                "question_id": "HIRE_AUTH",
+                "question_label": "Do you have hiring authority or influence over hiring decisions made within your company?",
+                "answer_code": "2"
+            },
+            {
+                "question_id": "l",
+                "question_label": "What is your preferred language for taking this survey?Welche Sprache bevorzugen Sie f\u00fcr die Teilnahme an dieser Umfrage?\u3053\u306e\u30a2\u30f3\u30b1\u30fc\u30c8\u8abf\u67fb\u3078\u306e\u56de\u7b54\u306b\u4f7f\u7528\u3059\u308b\u8a00\u8a9e\u3092\u9078\u629e\u3057\u3066\u304f\u3060\u3055\u3044\u3002",
+                "answer_code": "7"
+            },
+            {
+                "question_id": "qHidMode",
+                "question_label": "Hidden question to track mode...",
+                "answer_code": "2"
+            },
+            {
+                "question_id": "DeviceType",
+                "question_label": "Hidden: DeviceType",
+                "answer_code": "1"
+            },
+            {
+                "question_id": "IMPRESS_ORG_4",
+                "question_label": "EC-Council (Please describe your opinion of each organization in the table below.)",
+                "answer_code": "2.0"
+            },
+            {
+                "question_id": "BA_1_3",
+                "question_label": "(ISC)2 (Statement ^f('hLoop_Counter_1').toNumber()^ of 11 Please, consider carefully the statement below and choose an option for the certification organization(s) based on what you know about them or have experienced with them: You think that the statement describes the organization well (i.e., fits with what you know about it), or You think that the statement does not describe the organization well (i.e., does not fit with what you know about it), or You don't know or are not sureYou must select one answer for each organization. ^f('Loop_BA')^)",
+                "answer_code": ""
+            },
+            {
+                "question_id": "BA_1_8",
+                "question_label": "(ISC)2 (Statement ^f('hLoop_Counter_1').toNumber()^ of 11 Please, consider carefully the statement below and choose an option for the certification organization(s) based on what you know about them or have experienced with them: You think that the statement describes the organization well (i.e., fits with what you know about it), or You think that the statement does not describe the organization well (i.e., does not fit with what you know about it), or You don't know or are not sureYou must select one answer for each organization. ^f('Loop_BA')^)",
+                "answer_code": ""
+            }
+        ]
+    },
+    {
+        "respid": 10,
+        "status": "Complete",
+        "questions": [
+            {
+                "question_id": "AGE",
+                "question_label": "Which of the following categories contains your age?Please select one response.",
+                "answer_code": "5"
+            },
+            {
+                "question_id": "Quotafull",
+                "question_label": "Hidden question to get the question ids for various quotafull respondents.",
+                "answer_code": ""
+            },
+            {
+                "question_id": "Screened",
+                "question_label": "Hidden question to get the question ids for various screened respondents.",
+                "answer_code": ""
+            },
+            {
+                "question_id": "hPanelCountry",
+                "question_label": "Hidden question for Country to punch from Panel",
+                "answer_code": "1"
+            },
+            {
+                "question_id": "EMP",
+                "question_label": "What is your employment status?Please select one response.",
+                "answer_code": "1"
+            },
+            {
+                "question_id": "IND",
+                "question_label": "Which of the following best describes the industry in which you are employed?Please select one response.",
+                "answer_code": "31"
+            },
+            {
+                "question_id": "HIRE_AUTH",
+                "question_label": "Do you have hiring authority or influence over hiring decisions made within your company?",
+                "answer_code": "2"
+            },
+            {
+                "question_id": "l",
+                "question_label": "What is your preferred language for taking this survey?Welche Sprache bevorzugen Sie f\u00fcr die Teilnahme an dieser Umfrage?\u3053\u306e\u30a2\u30f3\u30b1\u30fc\u30c8\u8abf\u67fb\u3078\u306e\u56de\u7b54\u306b\u4f7f\u7528\u3059\u308b\u8a00\u8a9e\u3092\u9078\u629e\u3057\u3066\u304f\u3060\u3055\u3044\u3002",
+                "answer_code": "1"
+            },
+            {
+                "question_id": "qHidMode",
+                "question_label": "Hidden question to track mode...",
+                "answer_code": "2"
+            },
+            {
+                "question_id": "DeviceType",
+                "question_label": "Hidden: DeviceType",
+                "answer_code": "1"
+            },
+            {
+                "question_id": "IMPRESS_ORG_4",
+                "question_label": "EC-Council (Please describe your opinion of each organization in the table below.)",
+                "answer_code": "2.0"
+            },
+            {
+                "question_id": "BA_1_3",
+                "question_label": "(ISC)2 (Statement ^f('hLoop_Counter_1').toNumber()^ of 11 Please, consider carefully the statement below and choose an option for the certification organization(s) based on what you know about them or have experienced with them: You think that the statement describes the organization well (i.e., fits with what you know about it), or You think that the statement does not describe the organization well (i.e., does not fit with what you know about it), or You don't know or are not sureYou must select one answer for each organization. ^f('Loop_BA')^)",
+                "answer_code": "1.0"
+            },
+            {
+                "question_id": "BA_1_8",
+                "question_label": "(ISC)2 (Statement ^f('hLoop_Counter_1').toNumber()^ of 11 Please, consider carefully the statement below and choose an option for the certification organization(s) based on what you know about them or have experienced with them: You think that the statement describes the organization well (i.e., fits with what you know about it), or You think that the statement does not describe the organization well (i.e., does not fit with what you know about it), or You don't know or are not sureYou must select one answer for each organization. ^f('Loop_BA')^)",
+                "answer_code": "1.0"
+            }
+        ]
+    },
+    {
+        "respid": 60006,
+        "status": "Complete",
+        "questions": [
+            {
+                "question_id": "AGE",
+                "question_label": "Which of the following categories contains your age?Please select one response.",
+                "answer_code": "7"
+            },
+            {
+                "question_id": "Quotafull",
+                "question_label": "Hidden question to get the question ids for various quotafull respondents.",
+                "answer_code": ""
+            },
+            {
+                "question_id": "Screened",
+                "question_label": "Hidden question to get the question ids for various screened respondents.",
+                "answer_code": ""
+            },
+            {
+                "question_id": "hPanelCountry",
+                "question_label": "Hidden question for Country to punch from Panel",
+                "answer_code": "5"
+            },
+            {
+                "question_id": "EMP",
+                "question_label": "What is your employment status?Please select one response.",
+                "answer_code": "1"
+            },
+            {
+                "question_id": "IND",
+                "question_label": "Which of the following best describes the industry in which you are employed?Please select one response.",
+                "answer_code": "21"
+            },
+            {
+                "question_id": "HIRE_AUTH",
+                "question_label": "Do you have hiring authority or influence over hiring decisions made within your company?",
+                "answer_code": "1"
+            },
+            {
+                "question_id": "l",
+                "question_label": "What is your preferred language for taking this survey?Welche Sprache bevorzugen Sie f\u00fcr die Teilnahme an dieser Umfrage?\u3053\u306e\u30a2\u30f3\u30b1\u30fc\u30c8\u8abf\u67fb\u3078\u306e\u56de\u7b54\u306b\u4f7f\u7528\u3059\u308b\u8a00\u8a9e\u3092\u9078\u629e\u3057\u3066\u304f\u3060\u3055\u3044\u3002",
+                "answer_code": "1"
+            },
+            {
+                "question_id": "qHidMode",
+                "question_label": "Hidden question to track mode...",
+                "answer_code": "2"
+            },
+            {
+                "question_id": "DeviceType",
+                "question_label": "Hidden: DeviceType",
+                "answer_code": "2"
+            },
+            {
+                "question_id": "IMPRESS_ORG_4",
+                "question_label": "EC-Council (Please describe your opinion of each organization in the table below.)",
+                "answer_code": "3.0"
+            },
+            {
+                "question_id": "BA_1_3",
+                "question_label": "(ISC)2 (Statement ^f('hLoop_Counter_1').toNumber()^ of 11 Please, consider carefully the statement below and choose an option for the certification organization(s) based on what you know about them or have experienced with them: You think that the statement describes the organization well (i.e., fits with what you know about it), or You think that the statement does not describe the organization well (i.e., does not fit with what you know about it), or You don't know or are not sureYou must select one answer for each organization. ^f('Loop_BA')^)",
+                "answer_code": "3.0"
+            },
+            {
+                "question_id": "BA_1_8",
+                "question_label": "(ISC)2 (Statement ^f('hLoop_Counter_1').toNumber()^ of 11 Please, consider carefully the statement below and choose an option for the certification organization(s) based on what you know about them or have experienced with them: You think that the statement describes the organization well (i.e., fits with what you know about it), or You think that the statement does not describe the organization well (i.e., does not fit with what you know about it), or You don't know or are not sureYou must select one answer for each organization. ^f('Loop_BA')^)",
+                "answer_code": "3.0"
+            }
+        ]
+    },
+    {
+        "respid": 45010,
+        "status": "Complete",
+        "questions": [
+            {
+                "question_id": "AGE",
+                "question_label": "Which of the following categories contains your age?Please select one response.",
+                "answer_code": "7"
+            },
+            {
+                "question_id": "Quotafull",
+                "question_label": "Hidden question to get the question ids for various quotafull respondents.",
+                "answer_code": ""
+            },
+            {
+                "question_id": "Screened",
+                "question_label": "Hidden question to get the question ids for various screened respondents.",
+                "answer_code": ""
+            },
+            {
+                "question_id": "hPanelCountry",
+                "question_label": "Hidden question for Country to punch from Panel",
+                "answer_code": "4"
+            },
+            {
+                "question_id": "EMP",
+                "question_label": "What is your employment status?Please select one response.",
+                "answer_code": "1"
+            },
+            {
+                "question_id": "IND",
+                "question_label": "Which of the following best describes the industry in which you are employed?Please select one response.",
+                "answer_code": "21"
+            },
+            {
+                "question_id": "HIRE_AUTH",
+                "question_label": "Do you have hiring authority or influence over hiring decisions made within your company?",
+                "answer_code": "2"
+            },
+            {
+                "question_id": "l",
+                "question_label": "What is your preferred language for taking this survey?Welche Sprache bevorzugen Sie f\u00fcr die Teilnahme an dieser Umfrage?\u3053\u306e\u30a2\u30f3\u30b1\u30fc\u30c8\u8abf\u67fb\u3078\u306e\u56de\u7b54\u306b\u4f7f\u7528\u3059\u308b\u8a00\u8a9e\u3092\u9078\u629e\u3057\u3066\u304f\u3060\u3055\u3044\u3002",
+                "answer_code": "1"
+            },
+            {
+                "question_id": "qHidMode",
+                "question_label": "Hidden question to track mode...",
+                "answer_code": "2"
+            },
+            {
+                "question_id": "DeviceType",
+                "question_label": "Hidden: DeviceType",
+                "answer_code": "2"
+            },
+            {
+                "question_id": "IMPRESS_ORG_4",
+                "question_label": "EC-Council (Please describe your opinion of each organization in the table below.)",
+                "answer_code": "1.0"
+            },
+            {
+                "question_id": "BA_1_3",
+                "question_label": "(ISC)2 (Statement ^f('hLoop_Counter_1').toNumber()^ of 11 Please, consider carefully the statement below and choose an option for the certification organization(s) based on what you know about them or have experienced with them: You think that the statement describes the organization well (i.e., fits with what you know about it), or You think that the statement does not describe the organization well (i.e., does not fit with what you know about it), or You don't know or are not sureYou must select one answer for each organization. ^f('Loop_BA')^)",
+                "answer_code": "1.0"
+            },
+            {
+                "question_id": "BA_1_8",
+                "question_label": "(ISC)2 (Statement ^f('hLoop_Counter_1').toNumber()^ of 11 Please, consider carefully the statement below and choose an option for the certification organization(s) based on what you know about them or have experienced with them: You think that the statement describes the organization well (i.e., fits with what you know about it), or You think that the statement does not describe the organization well (i.e., does not fit with what you know about it), or You don't know or are not sureYou must select one answer for each organization. ^f('Loop_BA')^)",
+                "answer_code": "1.0"
+            }
+        ]
+    }
+]

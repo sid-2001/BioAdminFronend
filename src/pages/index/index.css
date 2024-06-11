@@ -1,0 +1,31 @@
+.index-header{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+    margin-left: 24px;
+    align-items: center;
+}
+
+.index-header .dropdown-menus {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 360px;
+    margin-right: 20px;
+}
+
+.index-header .dropdown-menus .form {
+    width: 100px;
+}
+
+/* .index-header .form {
+    border: none;
+}
+
+.index-header .form #demo-simple-select-label {
+    border: none;
+}
+
+.index-header .form #demo-simple-select-label #demo-simple-select {
+    border: none;
+} */

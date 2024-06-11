@@ -1,0 +1,613 @@
+{
+    "table_name": "Table 1",
+    "question_id": "totalTime1",
+    "notes_text": "",
+    "insights": [],
+    "question_text": "'totalTime'",
+    "question_title": "totalTime1",
+    "question_title_generated": "totalTime1",
+    "base_name": "Base : All Respondents",
+    "base_value": 12.98,
+    "rows": [
+        {
+            "name": "Mean",
+            "columns": [
+                {
+                    "name": "",
+                    "value": 12.98,
+                    "group_name": "Total",
+                    "value_subscript": "",
+                    "z_score": "",
+                    "label": ""
+                },
+                {
+                    "name": "Male",
+                    "value": 12.05,
+                    "group_name": "Gender",
+                    "label": "A",
+                    "value_subscript": ""
+                },
+                {
+                    "name": "Female",
+                    "value": 13.59,
+                    "group_name": "Gender",
+                    "label": "B",
+                    "value_subscript": ""
+                },
+
+
+                {
+                    "name": "MaleA",
+                    "value": 20,
+                    "group_name": "Male",
+                    "label": "A",
+                    "value_subscript": ""
+                },
+                {
+                    "name": "MaleB",
+                    "value": 30,
+                    "group_name": "Male",
+                    "label": "B",
+                    "value_subscript": ""
+                },
+
+                {
+                    "name": "FemaleA",
+                    "value": 200,
+                    "group_name": "Female",
+                    "label": "A",
+                    "value_subscript": ""
+                },
+                {
+                    "name": "FemaleB",
+                    "value": 300,
+                    "group_name": "Female",
+                    "label": "B",
+                    "value_subscript": ""
+                },
+
+                
+                {
+                    "name": "18-34",
+                    "value": 11.58,
+                    "group_name": "Age",
+                    "label": "C",
+                    "value_subscript": ""
+                },
+                {
+                    "name": "35-54",
+                    "value": 11.87,
+                    "group_name": "Age",
+                    "label": "D",
+                    "value_subscript": ""
+                },
+                {
+                    "name": "55-99",
+                    "value": 14.64,
+                    "group_name": "Age",
+                    "label": "E",
+                    "value_subscript": ""
+                },
+                {
+                    "name": "Northeast region",
+                    "value": 10.84,
+                    "group_name": "Region",
+                    "label": "F",
+                    "value_subscript": ""
+                },
+                {
+                    "name": "Midwest region",
+                    "value": 12.19,
+                    "group_name": "Region",
+                    "label": "G",
+                    "value_subscript": ""
+                },
+                {
+                    "name": "West region",
+                    "value": 16.26,
+                    "group_name": "Region",
+                    "label": "H",
+                    "value_subscript": ""
+                },
+                {
+                    "name": "South region",
+                    "value": 12.49,
+                    "group_name": "Region",
+                    "label": "I",
+                    "value_subscript": ""
+                },
+                {
+                    "name": "Urban",
+                    "value": 15.15,
+                    "group_name": "Place",
+                    "label": "J",
+                    "value_subscript": ""
+                },
+                {
+                    "name": "Suburban",
+                    "value": 12.14,
+                    "group_name": "Place",
+                    "label": "K",
+                    "value_subscript": ""
+                },
+                {
+                    "name": "Rural",
+                    "value": 12.36,
+                    "group_name": "Place",
+                    "label": "L",
+                    "value_subscript": ""
+                },
+                {
+                    "name": "Married/Partner",
+                    "value": 13.55,
+                    "group_name": "Marital Status",
+                    "label": "M",
+                    "value_subscript": ""
+                },
+                {
+                    "name": "Single/Widowed/Other",
+                    "value": 12.36,
+                    "group_name": "Marital Status",
+                    "label": "N",
+                    "value_subscript": ""
+                },
+                {
+                    "name": "Children under 18 at home",
+                    "value": 15.31,
+                    "group_name": "Children At home",
+                    "label": "O",
+                    "value_subscript": ""
+                },
+                {
+                    "name": "No children under 18 at home",
+                    "value": 11.99,
+                    "group_name": "Children At home",
+                    "label": "P",
+                    "value_subscript": ""
+                },
+                {
+                    "name": "Attended college or less",
+                    "value": 12.82,
+                    "group_name": "Education Level",
+                    "label": "Q",
+                    "value_subscript": ""
+                },
+                {
+                    "name": "Graduated college or more",
+                    "value": 13.12,
+                    "group_name": "Education Level",
+                    "label": "R",
+                    "value_subscript": ""
+                },
+                {
+                    "name": "Under 50K",
+                    "value": 11.95,
+                    "group_name": "HHI",
+                    "label": "S",
+                    "value_subscript": ""
+                },
+                {
+                    "name": "50K-99K",
+                    "value": 12.78,
+                    "group_name": "HHI",
+                    "label": "T",
+                    "value_subscript": ""
+                },
+                {
+                    "name": "100K +",
+                    "value": 14.38,
+                    "group_name": "HHI",
+                    "label": "U",
+                    "value_subscript": ""
+                }
+            ]
+        },
+        {
+            "name": "Median",
+            "columns": [
+                {
+                    "group_name": "",
+                    "name": "",
+                    "label": "",
+                    "value": "Mean",
+                    "value_percent": "",
+                    "value_subscript": ""
+                },
+                {
+                    "name": "",
+                    "value": 12.98,
+                    "group_name": "Total",
+                    "value_subscript": "",
+                    "z_score": "",
+                    "label": ""
+                },
+                {
+                    "name": "Male",
+                    "value": 12.05,
+                    "group_name": "Gender",
+                    "label": "A",
+                    "value_subscript": ""
+                },
+                {
+                    "name": "Female",
+                    "value": 13.59,
+                    "group_name": "Gender",
+                    "label": "B",
+                    "value_subscript": ""
+                },
+
+
+                {
+                    "name": "MaleA",
+                    "value": 20,
+                    "group_name": "Male",
+                    "label": "A",
+                    "value_subscript": ""
+                },
+                {
+                    "name": "MaleB",
+                    "value": 30,
+                    "group_name": "Male",
+                    "label": "B",
+                    "value_subscript": ""
+                },
+
+                {
+                    "name": "FemaleA",
+                    "value": 200,
+                    "group_name": "Female",
+                    "label": "A",
+                    "value_subscript": ""
+                },
+                {
+                    "name": "FemaleB",
+                    "value": 300,
+                    "group_name": "Female",
+                    "label": "B",
+                    "value_subscript": ""
+                },
+
+                
+                {
+                    "name": "18-34",
+                    "value": 11.58,
+                    "group_name": "Age",
+                    "label": "C",
+                    "value_subscript": ""
+                },
+                {
+                    "name": "35-54",
+                    "value": 11.87,
+                    "group_name": "Age",
+                    "label": "D",
+                    "value_subscript": ""
+                },
+                {
+                    "name": "55-99",
+                    "value": 14.64,
+                    "group_name": "Age",
+                    "label": "E",
+                    "value_subscript": ""
+                },
+                {
+                    "name": "Northeast region",
+                    "value": 10.84,
+                    "group_name": "Region",
+                    "label": "F",
+                    "value_subscript": ""
+                },
+                {
+                    "name": "Midwest region",
+                    "value": 12.19,
+                    "group_name": "Region",
+                    "label": "G",
+                    "value_subscript": ""
+                },
+                {
+                    "name": "West region",
+                    "value": 16.26,
+                    "group_name": "Region",
+                    "label": "H",
+                    "value_subscript": ""
+                },
+                {
+                    "name": "South region",
+                    "value": 12.49,
+                    "group_name": "Region",
+                    "label": "I",
+                    "value_subscript": ""
+                },
+                {
+                    "name": "Urban",
+                    "value": 15.15,
+                    "group_name": "Place",
+                    "label": "J",
+                    "value_subscript": ""
+                },
+                {
+                    "name": "Suburban",
+                    "value": 12.14,
+                    "group_name": "Place",
+                    "label": "K",
+                    "value_subscript": ""
+                },
+                {
+                    "name": "Rural",
+                    "value": 12.36,
+                    "group_name": "Place",
+                    "label": "L",
+                    "value_subscript": ""
+                },
+                {
+                    "name": "Married/Partner",
+                    "value": 13.55,
+                    "group_name": "Marital Status",
+                    "label": "M",
+                    "value_subscript": ""
+                },
+                {
+                    "name": "Single/Widowed/Other",
+                    "value": 12.36,
+                    "group_name": "Marital Status",
+                    "label": "N",
+                    "value_subscript": ""
+                },
+                {
+                    "name": "Children under 18 at home",
+                    "value": 15.31,
+                    "group_name": "Children At home",
+                    "label": "O",
+                    "value_subscript": ""
+                },
+                {
+                    "name": "No children under 18 at home",
+                    "value": 11.99,
+                    "group_name": "Children At home",
+                    "label": "P",
+                    "value_subscript": ""
+                },
+                {
+                    "name": "Attended college or less",
+                    "value": 12.82,
+                    "group_name": "Education Level",
+                    "label": "Q",
+                    "value_subscript": ""
+                },
+                {
+                    "name": "Graduated college or more",
+                    "value": 13.12,
+                    "group_name": "Education Level",
+                    "label": "R",
+                    "value_subscript": ""
+                },
+                {
+                    "name": "Under 50K",
+                    "value": 11.95,
+                    "group_name": "HHI",
+                    "label": "S",
+                    "value_subscript": ""
+                },
+                {
+                    "name": "50K-99K",
+                    "value": 12.78,
+                    "group_name": "HHI",
+                    "label": "T",
+                    "value_subscript": ""
+                },
+                {
+                    "name": "100K +",
+                    "value": 14.38,
+                    "group_name": "HHI",
+                    "label": "U",
+                    "value_subscript": ""
+                }
+            ]
+        },
+
+
+        {
+            "name": "Mode",
+            "columns": [
+                {
+                    "group_name": "",
+                    "name": "",
+                    "label": "",
+                    "value": "Mean",
+                    "value_percent": "",
+                    "value_subscript": ""
+                },
+                {
+                    "name": "",
+                    "value": 12.98,
+                    "group_name": "Total",
+                    "value_subscript": "",
+                    "z_score": "",
+                    "label": ""
+                },
+                {
+                    "name": "Male",
+                    "value": 12.05,
+                    "group_name": "Gender",
+                    "label": "A",
+                    "value_subscript": ""
+                },
+                {
+                    "name": "Female",
+                    "value": 13.59,
+                    "group_name": "Gender",
+                    "label": "B",
+                    "value_subscript": ""
+                },
+
+
+                {
+                    "name": "MaleA",
+                    "value": 20,
+                    "group_name": "Male",
+                    "label": "A",
+                    "value_subscript": ""
+                },
+                {
+                    "name": "MaleB",
+                    "value": 30,
+                    "group_name": "Male",
+                    "label": "B",
+                    "value_subscript": ""
+                },
+
+                {
+                    "name": "FemaleA",
+                    "value": 200,
+                    "group_name": "Female",
+                    "label": "A",
+                    "value_subscript": ""
+                },
+                {
+                    "name": "FemaleB",
+                    "value": 300,
+                    "group_name": "Female",
+                    "label": "B",
+                    "value_subscript": ""
+                },
+
+                
+                {
+                    "name": "18-34",
+                    "value": 11.58,
+                    "group_name": "Age",
+                    "label": "C",
+                    "value_subscript": ""
+                },
+                {
+                    "name": "35-54",
+                    "value": 11.87,
+                    "group_name": "Age",
+                    "label": "D",
+                    "value_subscript": ""
+                },
+                {
+                    "name": "55-99",
+                    "value": 14.64,
+                    "group_name": "Age",
+                    "label": "E",
+                    "value_subscript": ""
+                },
+                {
+                    "name": "Northeast region",
+                    "value": 10.84,
+                    "group_name": "Region",
+                    "label": "F",
+                    "value_subscript": ""
+                },
+                {
+                    "name": "Midwest region",
+                    "value": 12.19,
+                    "group_name": "Region",
+                    "label": "G",
+                    "value_subscript": ""
+                },
+                {
+                    "name": "West region",
+                    "value": 16.26,
+                    "group_name": "Region",
+                    "label": "H",
+                    "value_subscript": ""
+                },
+                {
+                    "name": "South region",
+                    "value": 12.49,
+                    "group_name": "Region",
+                    "label": "I",
+                    "value_subscript": ""
+                },
+                {
+                    "name": "Urban",
+                    "value": 15.15,
+                    "group_name": "Place",
+                    "label": "J",
+                    "value_subscript": ""
+                },
+                {
+                    "name": "Suburban",
+                    "value": 12.14,
+                    "group_name": "Place",
+                    "label": "K",
+                    "value_subscript": ""
+                },
+                {
+                    "name": "Rural",
+                    "value": 12.36,
+                    "group_name": "Place",
+                    "label": "L",
+                    "value_subscript": ""
+                },
+                {
+                    "name": "Married/Partner",
+                    "value": 13.55,
+                    "group_name": "Marital Status",
+                    "label": "M",
+                    "value_subscript": ""
+                },
+                {
+                    "name": "Single/Widowed/Other",
+                    "value": 12.36,
+                    "group_name": "Marital Status",
+                    "label": "N",
+                    "value_subscript": ""
+                },
+                {
+                    "name": "Children under 18 at home",
+                    "value": 15.31,
+                    "group_name": "Children At home",
+                    "label": "O",
+                    "value_subscript": ""
+                },
+                {
+                    "name": "No children under 18 at home",
+                    "value": 11.99,
+                    "group_name": "Children At home",
+                    "label": "P",
+                    "value_subscript": ""
+                },
+                {
+                    "name": "Attended college or less",
+                    "value": 12.82,
+                    "group_name": "Education Level",
+                    "label": "Q",
+                    "value_subscript": ""
+                },
+                {
+                    "name": "Graduated college or more",
+                    "value": 13.12,
+                    "group_name": "Education Level",
+                    "label": "R",
+                    "value_subscript": ""
+                },
+                {
+                    "name": "Under 50K",
+                    "value": 11.95,
+                    "group_name": "HHI",
+                    "label": "S",
+                    "value_subscript": ""
+                },
+                {
+                    "name": "50K-99K",
+                    "value": 12.78,
+                    "group_name": "HHI",
+                    "label": "T",
+                    "value_subscript": ""
+                },
+                {
+                    "name": "100K +",
+                    "value": 14.38,
+                    "group_name": "HHI",
+                    "label": "U",
+                    "value_subscript": ""
+                }
+            ]
+        }
+
+
+    ],
+    "analysis_text": "Proportions/Means: Columns Tested (5% risk level) - "
+}

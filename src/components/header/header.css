@@ -1,0 +1,15 @@
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 15px;
+  font-weight: bolder;
+}
+
+.heading {
+  font-weight: bold;
+  color: rgba(169, 57, 234, 1);
+}
+

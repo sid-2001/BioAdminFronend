@@ -1,0 +1,49 @@
+.view-table-main-div {
+  /* width: 100%; */
+  /* margin: 20px 10px 10px 50px; */
+  /* height: clac; */
+  /* border: 1px solid black; */
+}
+
+.name-text {
+  font-weight: 600;
+  font-size: 14px;
+}
+
+.name-sub-text {
+  font-weight: 400;
+  font-size: 12px;
+}
+
+.sentiment-score {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  text-align: center;
+  justify-content: center;
+  padding: 4px 8px;
+  min-width: 50px;
+  border-radius: 4px;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  border: 1px solid rgba(45, 108, 14, 0.9);
+}
+
+.topics {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding: 4px 8px;
+  text-align: center;
+  background: #c9edb8;
+  border-radius: 4px;
+  color: #2d6c0e;
+}
+
+.table-heading {
+  color: #35454c;
+  font-weight: 600;
+  font-size: 16px;
+}

@@ -1,0 +1,558 @@
+[
+    {
+        "name": "",
+        "children": [
+            {
+                "name": "",
+                "headerCellClass": "transparent",
+                "resizable": true,
+                "children": [
+                    {
+                        "key": 0,
+                        "headerCellClass": "transparent",
+                        "name": "",
+                        "resizable": true,
+                        "renderCell": (row: any) => CellRenderer(row, keyVal)
+                    }
+                ]
+            }
+        ],
+        "headerCellClass": "transparent",
+        "resizable": true
+    },
+    {
+        "name": "Total",
+        "children": [
+            {
+                "name": "",
+                "headerCellClass": "blue",
+                "resizable": true,
+                "children": [
+                    {
+                        "key": 1,
+                        "headerCellClass": "blue",
+                        "name": "",
+                        "resizable": true,
+                        "renderCell": (row: any) => CellRenderer(row, keyVal)
+                    }
+                ]
+            }
+        ],
+        "headerCellClass": "blue",
+        "resizable": true
+    },
+    {
+        "name": "S1",
+        "children": [
+            {
+                "name": "Male",
+                "headerCellClass": "blue",
+                "resizable": true,
+                "children": [
+                    {
+                        "key": 2,
+                        "headerCellClass": "blue",
+                        "name": "A",
+                        "resizable": true,
+                        "renderCell": (row: any) => CellRenderer(row, keyVal)
+                    }
+                ]
+            },
+            {
+                "name": "Female",
+                "headerCellClass": "blue",
+                "resizable": true,
+                "children": [
+                    {
+                        "key": 3,
+                        "headerCellClass": "blue",
+                        "name": "B",
+                        "resizable": true,
+                        "renderCell": (row: any) => CellRenderer(row, keyVal)
+                    }
+                ]
+            }
+        ],
+        "headerCellClass": "blue",
+        "resizable": true
+    },
+    {
+        "name": "hRegion",
+        "children": [
+            {
+                "name": "Northeast",
+                "headerCellClass": "blue",
+                "resizable": true,
+                "children": [
+                    {
+                        "key": 4,
+                        "headerCellClass": "blue",
+                        "name": "C",
+                        "resizable": true,
+                        "renderCell": (row: any) => CellRenderer(row, keyVal)
+                    }
+                ]
+            },
+            {
+                "name": "Midwest",
+                "headerCellClass": "blue",
+                "resizable": true,
+                "children": [
+                    {
+                        "key": 5,
+                        "headerCellClass": "blue",
+                        "name": "D",
+                        "resizable": true,
+                        "renderCell": (row: any) => CellRenderer(row, keyVal)
+                    }
+                ]
+            },
+            {
+                "name": "South",
+                "headerCellClass": "blue",
+                "resizable": true,
+                "children": [
+                    {
+                        "key": 6,
+                        "headerCellClass": "blue",
+                        "name": "E",
+                        "resizable": true,
+                        "renderCell": (row: any) => CellRenderer(row, keyVal)
+                    }
+                ]
+            },
+            {
+                "name": "West",
+                "headerCellClass": "blue",
+                "resizable": true,
+                "children": [
+                    {
+                        "key": 7,
+                        "headerCellClass": "blue",
+                        "name": "F",
+                        "resizable": true,
+                        "renderCell": (row: any) => CellRenderer(row, keyVal)
+                    }
+                ]
+            }
+        ],
+        "headerCellClass": "blue",
+        "resizable": true
+    },
+    {
+        "name": "S2",
+        "children": [
+            {
+                "name": "18-35",
+                "headerCellClass": "blue",
+                "resizable": true,
+                "children": [
+                    {
+                        "key": 8,
+                        "headerCellClass": "blue",
+                        "name": "G",
+                        "resizable": true,
+                        "renderCell": (row: any) => CellRenderer(row, keyVal)
+                    }
+                ]
+            },
+            {
+                "name": "35+",
+                "headerCellClass": "blue",
+                "resizable": true,
+                "children": [
+                    {
+                        "key": 9,
+                        "headerCellClass": "blue",
+                        "name": "H",
+                        "resizable": true,
+                        "renderCell": (row: any) => CellRenderer(row, keyVal)
+                    }
+                ]
+            }
+        ],
+        "headerCellClass": "blue",
+        "resizable": true
+    },
+    {
+        "name": "S1-hRegion-S2",
+        "children": [
+            {
+                "name": "Male",
+                "headerCellClass": "blue",
+                "resizable": true,
+                "children": [
+                    {
+                        "key": 10,
+                        "headerCellClass": "blue",
+                        "name": "I",
+                        "resizable": true,
+                        "children": [
+                            {
+                                "name": "Northeast",
+                                "headerCellClass": "blue",
+                                "resizable": true,
+                                "children": [
+                                    {
+                                        "key": 4,
+                                        "headerCellClass": "blue",
+                                        "name": "C",
+                                        "resizable": true,
+                                        "children": [
+                                            {
+                                                "name": "18-35",
+                                                "headerCellClass": "blue",
+                                                "resizable": true,
+                                                "children": [
+                                                    {
+                                                        "key": 10,
+                                                        "headerCellClass": "blue",
+                                                        "name": "I",
+                                                        "resizable": true,
+                                                        "renderCell": (row: any) => CellRenderer(row, keyVal)
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "name": "35+",
+                                                "headerCellClass": "blue",
+                                                "resizable": true,
+                                                "children": [
+                                                    {
+                                                        "key": 11,
+                                                        "headerCellClass": "blue",
+                                                        "name": "J",
+                                                        "resizable": true,
+                                                        "renderCell": (row: any) => CellRenderer(row, keyVal)
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Midwest",
+                                "headerCellClass": "blue",
+                                "resizable": true,
+                                "children": [
+                                    {
+                                        "key": 5,
+                                        "headerCellClass": "blue",
+                                        "name": "D",
+                                        "resizable": true,
+                                        "children": [
+                                            {
+                                                "name": "18-35",
+                                                "headerCellClass": "blue",
+                                                "resizable": true,
+                                                "children": [
+                                                    {
+                                                        "key": 12,
+                                                        "headerCellClass": "blue",
+                                                        "name": "K",
+                                                        "resizable": true,
+                                                        "renderCell": (row: any) => CellRenderer(row, keyVal)
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "name": "35+",
+                                                "headerCellClass": "blue",
+                                                "resizable": true,
+                                                "children": [
+                                                    {
+                                                        "key": 13,
+                                                        "headerCellClass": "blue",
+                                                        "name": "L",
+                                                        "resizable": true,
+                                                        "renderCell": (row: any) => CellRenderer(row, keyVal)
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "South",
+                                "headerCellClass": "blue",
+                                "resizable": true,
+                                "children": [
+                                    {
+                                        "key": 6,
+                                        "headerCellClass": "blue",
+                                        "name": "E",
+                                        "resizable": true,
+                                        "children": [
+                                            {
+                                                "name": "18-35",
+                                                "headerCellClass": "blue",
+                                                "resizable": true,
+                                                "children": [
+                                                    {
+                                                        "key": 14,
+                                                        "headerCellClass": "blue",
+                                                        "name": "M",
+                                                        "resizable": true,
+                                                        "renderCell": (row: any) => CellRenderer(row, keyVal)
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "name": "35+",
+                                                "headerCellClass": "blue",
+                                                "resizable": true,
+                                                "children": [
+                                                    {
+                                                        "key": 15,
+                                                        "headerCellClass": "blue",
+                                                        "name": "N",
+                                                        "resizable": true,
+                                                        "renderCell": (row: any) => CellRenderer(row, keyVal)
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "West",
+                                "headerCellClass": "blue",
+                                "resizable": true,
+                                "children": [
+                                    {
+                                        "key": 7,
+                                        "headerCellClass": "blue",
+                                        "name": "F",
+                                        "resizable": true,
+                                        "children": [
+                                            {
+                                                "name": "18-35",
+                                                "headerCellClass": "blue",
+                                                "resizable": true,
+                                                "children": [
+                                                    {
+                                                        "key": 16,
+                                                        "headerCellClass": "blue",
+                                                        "name": "O",
+                                                        "resizable": true,
+                                                        "renderCell": (row: any) => CellRenderer(row, keyVal)
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "name": "35+",
+                                                "headerCellClass": "blue",
+                                                "resizable": true,
+                                                "children": [
+                                                    {
+                                                        "key": 17,
+                                                        "headerCellClass": "blue",
+                                                        "name": "P",
+                                                        "resizable": true,
+                                                        "renderCell": (row: any) => CellRenderer(row, keyVal)
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Female",
+                "headerCellClass": "blue",
+                "resizable": true,
+                "children": [
+                    {
+                        "key": 11,
+                        "headerCellClass": "blue",
+                        "name": "J",
+                        "resizable": true,
+                        "children": [
+                            {
+                                "name": "Northeast",
+                                "headerCellClass": "blue",
+                                "resizable": true,
+                                "children": [
+                                    {
+                                        "key": 4,
+                                        "headerCellClass": "blue",
+                                        "name": "C",
+                                        "resizable": true,
+                                        "children": [
+                                            {
+                                                "name": "18-35",
+                                                "headerCellClass": "blue",
+                                                "resizable": true,
+                                                "children": [
+                                                    {
+                                                        "key": 18,
+                                                        "headerCellClass": "blue",
+                                                        "name": "Q",
+                                                        "resizable": true,
+                                                        "renderCell": (row: any) => CellRenderer(row, keyVal)
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "name": "35+",
+                                                "headerCellClass": "blue",
+                                                "resizable": true,
+                                                "children": [
+                                                    {
+                                                        "key": 19,
+                                                        "headerCellClass": "blue",
+                                                        "name": "R",
+                                                        "resizable": true,
+                                                        "renderCell": (row: any) => CellRenderer(row, keyVal)
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Midwest",
+                                "headerCellClass": "blue",
+                                "resizable": true,
+                                "children": [
+                                    {
+                                        "key": 5,
+                                        "headerCellClass": "blue",
+                                        "name": "D",
+                                        "resizable": true,
+                                        "children": [
+                                            {
+                                                "name": "18-35",
+                                                "headerCellClass": "blue",
+                                                "resizable": true,
+                                                "children": [
+                                                    {
+                                                        "key": 20,
+                                                        "headerCellClass": "blue",
+                                                        "name": "S",
+                                                        "resizable": true,
+                                                        "renderCell": (row: any) => CellRenderer(row, keyVal)
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "name": "35+",
+                                                "headerCellClass": "blue",
+                                                "resizable": true,
+                                                "children": [
+                                                    {
+                                                        "key": 21,
+                                                        "headerCellClass": "blue",
+                                                        "name": "T",
+                                                        "resizable": true,
+                                                        "renderCell": (row: any) => CellRenderer(row, keyVal)
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "South",
+                                "headerCellClass": "blue",
+                                "resizable": true,
+                                "children": [
+                                    {
+                                        "key": 6,
+                                        "headerCellClass": "blue",
+                                        "name": "E",
+                                        "resizable": true,
+                                        "children": [
+                                            {
+                                                "name": "18-35",
+                                                "headerCellClass": "blue",
+                                                "resizable": true,
+                                                "children": [
+                                                    {
+                                                        "key": 22,
+                                                        "headerCellClass": "blue",
+                                                        "name": "U",
+                                                        "resizable": true,
+                                                        "renderCell": (row: any) => CellRenderer(row, keyVal)
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "name": "35+",
+                                                "headerCellClass": "blue",
+                                                "resizable": true,
+                                                "children": [
+                                                    {
+                                                        "key": 23,
+                                                        "headerCellClass": "blue",
+                                                        "name": "V",
+                                                        "resizable": true,
+                                                        "renderCell": (row: any) => CellRenderer(row, keyVal)
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "West",
+                                "headerCellClass": "blue",
+                                "resizable": true,
+                                "children": [
+                                    {
+                                        "key": 7,
+                                        "headerCellClass": "blue",
+                                        "name": "F",
+                                        "resizable": true,
+                                        "children": [
+                                            {
+                                                "name": "18-35",
+                                                "headerCellClass": "blue",
+                                                "resizable": true,
+                                                "children": [
+                                                    {
+                                                        "key": 24,
+                                                        "headerCellClass": "blue",
+                                                        "name": "W",
+                                                        "resizable": true,
+                                                        "renderCell": (row: any) => CellRenderer(row, keyVal)
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "name": "35+",
+                                                "headerCellClass": "blue",
+                                                "resizable": true,
+                                                "children": [
+                                                    {
+                                                        "key": 25,
+                                                        "headerCellClass": "blue",
+                                                        "name": "X",
+                                                        "resizable": true,
+                                                        "renderCell": (row: any) => CellRenderer(row, keyVal)
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "headerCellClass": "blue",
+        "resizable": true
+    }
+]

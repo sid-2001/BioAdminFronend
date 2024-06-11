@@ -1,0 +1,47 @@
+{
+  "name": "Ota Analysis",
+  "questions": [
+    {
+      "question_text": "Hidden: for source quota",
+      "base_name": "Base : All Respondents",
+      "question_id": "hSOURCE_QUOTA",
+      "analysis_data": [
+        {
+          "text": "I love this brand",
+          "is_gibberish": false,
+          "gibberish_text": [],
+          "is_profanity": false,
+          "profanity_text": [],
+          "sentiment_class": "positive",
+          "sentiment_score": 0.96,
+          "topics": ["helping"],
+          "keywords": ["love", "brand"]
+        },
+        {
+          "text": "I still dont full trust or know enoughabout united way to donate right now, but if trust was established i wouldnt rule out donating to help.",
+          "is_gibberish": false,
+          "gibberish_text": [],
+          "is_profanity": false,
+          "profanity_text": [],
+          "sentiment_class": "negative",
+          "sentiment_score": 0.67,
+          "topics": ["donating", "helping", "good cause"],
+          "keywords": [
+            "trust",
+            "know",
+            "enoughabout",
+            "united",
+            "way",
+            "donate",
+            "right",
+            "trust",
+            "established",
+            "rule",
+            "donating",
+            "help"
+          ]
+        }
+      ]
+    }
+  ]
+}
